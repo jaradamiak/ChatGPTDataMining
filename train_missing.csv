@@ -1,16 +1,16 @@
 ﻿Student_Number;Matric_Aggregate_Group;FTENab;Matric_Status_Code;Age_Group;Race;Gender;Home_Language;Employment;Magisterial_District;Region;Class
 10000531;1201_1300;F;DEGR;24_25     ;African;F;NORTHERN SOTHO;Unemployed;GIYANI;North Eastern;1
-10007266;0000_0000;T;DIPL;29_34     ;African;M;ISIXHOSA;Employed;ALIWAL NORTH;Eastern Cape;1
-10013072;0000_0000;F;DIPL;18_19     ;African;M;ISIZULU;Employed;PINETOWN;KwaZulu-Natal;1
-10631245;0000_0000;T;DEGR;22_23     ;African;M;ISIZULU;Student;JOHANNESBURG;Gauteng;1
-10016486;1101_1150;T;DEGR;26_28     ;African;F;SETSWANA;Employed;PHOKWANI;Midlands;1
-11883434;1001_1050;T;DIPL;24_25     ;African;F;ISIZULU;Unemployed;KLIPRIVER;KwaZulu-Natal;1
-12133943;1051_1100;T;DEGR;29_34     ;African;F;ISIZULU;Employed;UMLAZI;KwaZulu-Natal;1
-10635828;1001_1050;F;DEGR;26_28     ;African;F;XITSONGA;Unemployed;SESHEGO;North Eastern;1
-10636484;1101_1150;T;DIPL;22_23     ;African;M;SESOTHO;Employed;MOKERONG;North Eastern;1
-10908549;0000_0000;T;DIPL;18_19     ;African;F;SESOTHO;Employed;JOHANNESBURG;Gauteng;1
-10027526;0851_0900;F;DIPL;26_28     ;African;F;ISIZULU;Employed;MAHLABATINI;KwaZulu-Natal;1
-10038180;0951_1000;T;DIPL;29_34     ;African;F;NORTHERN SOTHO;Unemployed;SESHEGO;North Eastern;1
+10007266;;T;DIPL;29_34     ;African;M;ISIXHOSA;Employed;ALIWAL NORTH;Eastern Cape;1
+10013072;0000_0000;;DIPL;18_19     ;African;M;ISIZULU;Employed;PINETOWN;KwaZulu-Natal;1
+10631245;0000_0000;T;;22_23     ;African;M;ISIZULU;Student;JOHANNESBURG;Gauteng;1
+10016486;1101_1150;T;DEGR;;African;F;SETSWANA;Employed;PHOKWANI;Midlands;1
+11883434;1001_1050;T;DIPL;24_25     ;;F;ISIZULU;Unemployed;KLIPRIVER;KwaZulu-Natal;1
+12133943;1051_1100;T;DEGR;29_34     ;African;;ISIZULU;Employed;UMLAZI;KwaZulu-Natal;1
+10635828;1001_1050;F;DEGR;26_28     ;African;F;;Unemployed;SESHEGO;North Eastern;1
+10636484;1101_1150;T;DIPL;22_23     ;African;M;SESOTHO;;MOKERONG;North Eastern;1
+10908549;0000_0000;T;DIPL;18_19     ;African;F;SESOTHO;Employed;;Gauteng;1
+10027526;0851_0900;F;DIPL;26_28     ;African;F;ISIZULU;Employed;MAHLABATINI;;1
+10038180;0951_1000;T;DIPL;29_34     ;African;F;NORTHERN SOTHO;Unemployed;SESHEGO;North Eastern;
 10911817;1101_1150;T;DEGR;26_28     ;African;F;SISWATI;Unemployed;WITBANK;North Eastern;1
 10042959;0000_0000;F;HCER;29_34     ;African;M;SESOTHO;Unemployed;VANDERBIJLPARK;Gauteng;1
 10045516;1151_1200;F;DEGR;22_23     ;African;M;ISIZULU;Unemployed;UTRECHT;KwaZulu-Natal;1
