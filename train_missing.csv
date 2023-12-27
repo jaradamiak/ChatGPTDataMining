@@ -1,4 +1,4 @@
-﻿Student_Number;Matric_Aggregate_Group;FTENab;Matric_Status_Code;Age_Group;Race;Gender;Home_Language;Employment;Magisterial_District;Region;Class
+﻿Student_Number;Matric_Aggregate_Group;FTEN;Matric_Status_Code;Age_Group;Race;Gender;Home_Language;Employment;Magisterial_District;Region;Class
 10000531;1201_1300;F;DEGR;24_25     ;African;F;NORTHERN SOTHO;Unemployed;GIYANI;North Eastern;1
 10007266;;T;DIPL;29_34     ;African;M;ISIXHOSA;Employed;ALIWAL NORTH;Eastern Cape;1
 10013072;0000_0000;;DIPL;18_19     ;African;M;ISIZULU;Employed;PINETOWN;KwaZulu-Natal;1

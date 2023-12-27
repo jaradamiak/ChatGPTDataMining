@@ -1,0 +1,1970 @@
+Matric_Aggregate_Group,FTEN,Matric_Status_Code,Age_Group,Race,Gender,Home_Language,Employment,Magisterial_District,Region,Class
+1101_1150,T,DEGR,26_28     ,African,F,SISWATI,Unemployed,WITBANK,North Eastern,1
+0901_0950,T,SENR,35_40     ,African,M,ISINDEBELE,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,22_23     ,African,F,ISINDEBELE,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,AFRIKAANS,Employed,BOKSBURG,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0901_0950,T,MATR,29_34     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0001_0600,F,SENR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0901_0950,T,DIPL,24_25     ,African,M,ISIZULU,Unemployed,WITBANK,North Eastern,1
+0901_0950,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,1
+1101_1150,T,DEGR,24_25     ,African,M,TSHIVENDA,Unemployed,RANDBURG,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,F,XITSONGA,Unemployed,SOSHANGUWE,Gauteng,1
+1151_1200,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,T,DEGR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+0901_0950,T,DIPL,26_28     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,T,SENR,35_40     ,African,M,ISIXHOSA,Employed,BENONI,Gauteng,1
+1101_1150,F,DEGR,24_25     ,African,M,ENGLISH,Employed,WONDERBOOM,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,XITSONGA,Employed,WONDERBOOM,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+1001_1050,T,SENR,29_34     ,African,F,ISIXHOSA,Employed,DURBAN,KwaZulu-Natal,1
+1051_1100,T,DEGR,26_28     ,African,M,ISIZULU,Employed,PRETORIA,Gauteng,1
+1401_3000,T,DEGR,22_23     ,Indian,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+1101_1150,T,DEGR,22_23     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+0901_0950,F,DIPL,22_23     ,African,M,XITSONGA,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DIPL,26_28     ,African,F,ISINDEBELE,Unemployed,WITBANK,North Eastern,1
+1101_1150,F,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,HCER,22_23     ,African,M,SESOTHO,Unemployed,PRETORIA,Gauteng,1
+0851_0900,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,1
+1301_1400,T,DEGR,22_23     ,African,F,ISIZULU,Employed,SOSHANGUWE,Gauteng,1
+0901_0950,F,DIPL,18_19     ,African,M,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+0951_1000,T,DEGR,20_21     ,African,M,ISIXHOSA,Unemployed,MITCHELLS PLAIN,Western Cape,1
+1051_1100,T,DIPL,29_34     ,African,M,ENGLISH,Employed,BOKSBURG,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,1
+0601_0800,T,SENR,29_34     ,African,F,SESOTHO,Employed,RUSTENBURG,Midlands,1
+0000_0000,T,KWAL,35_40     ,African,M,SETSWANA,Employed,WONDERBOOM,Gauteng,1
+1301_1400,T,MATR,29_34     ,Coloured,F,AFR/ENG,Employed,GOODWOOD,Western Cape,1
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+0601_0800,T,DEGR,29_34     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+1301_1400,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,M,TSHIVENDA,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,F,DIPL,29_34     ,African,M,ISIXHOSA,Unemployed,MITCHELLS PLAIN,Western Cape,1
+1001_1050,T,DIPL,24_25     ,African,M,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,1
+0951_1000,F,DEGR,24_25     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,White,F,AFR/ENG,Unemployed,GERMISTON,Gauteng,1
+1051_1100,T,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0901_0950,F,DIPL,20_21     ,African,M,ISIXHOSA,Employed,BENONI,Gauteng,1
+1301_1400,F,DEGR,22_23     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DEGR,20_21     ,Indian,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0000_0000,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1051_1100,F,DEGR,20_21     ,African,F,SESOTHO,Employed,ALBERTON,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,African,M,ENGLISH,Unemployed,BOKSBURG,Gauteng,1
+1301_1400,T,MATR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+0000_0000,T,DEGR,24_25     ,Coloured,M,ENGLISH,Unemployed,ROODEPOORT,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1001_1050,T,DIPL,26_28     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+0901_0950,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,F,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,BENONI,Gauteng,1
+1301_1400,F,DEGR,20_21     ,White,F,AFR/ENG,Employed,BELLVILLE,Western Cape,1
+1301_1400,T,DEGR,24_25     ,African,F,NORTHERN SOTHO,Employed,ALBERTON,Gauteng,1
+1151_1200,T,MATR,35_40     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0951_1000,T,SENR,29_34     ,African,F,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,M,ISINDEBELE,Employed,RANDBURG,Gauteng,1
+0901_0950,F,DIPL,26_28     ,African,F,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+1301_1400,F,DEGR,20_21     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,AFR/ENG,Employed,ALBERTON,Gauteng,1
+0000_0000,T,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,BOKSBURG,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,F,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+0000_0000,T,DIPL,26_28     ,African,F,ISIXHOSA,Unemployed,PINETOWN,KwaZulu-Natal,1
+0000_0000,T,DEGR,26_28     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,20_21     ,African,M,ISIZULU,Unemployed,ROODEPOORT,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,1
+1051_1100,F,DEGR,26_28     ,African,F,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0851_0900,F,DIPL,24_25     ,African,F,SISWATI,Unemployed,GARANKUWA,Midlands,1
+0951_1000,T,DIPL,24_25     ,Indian,M,ENGLISH,Employed,BOKSBURG,Gauteng,1
+0001_0600,T,SENR,29_34     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1151_1200,T,DEGR,24_25     ,African,F,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,M,ISIZULU,Student,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,F,XITSONGA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,24_25     ,White,M,AFR/ENG,Unemployed,PRETORIA,Gauteng,1
+0951_1000,T,MATR,35_40     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1051_1100,F,DEGR,20_21     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,M,SESOTHO,Employed,GERMISTON,Gauteng,1
+1301_1400,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1151_1200,T,MATR,41_50     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,20_21     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,BELLVILLE,Western Cape,1
+1201_1300,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+1201_1300,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,1
+1151_1200,F,DEGR,20_21     ,African,M,SETSWANA,Unemployed,GARANKUWA,Midlands,1
+0000_0000,F,DEGR,20_21     ,African,F,SESOTHO,Unemployed,PRETORIA,Gauteng,1
+1001_1050,T,MATR,41_50     ,African,M,ISIZULU,Unemployed,PINETOWN,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DIPL,24_25     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1201_1300,T,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,1
+1201_1300,T,DEGR,22_23     ,African,F,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,24_25     ,African,M,ENGLISH,Unemployed,BELLVILLE,Western Cape,1
+1101_1150,T,SENR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0001_0600,T,KWAL,26_28     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+1151_1200,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1201_1300,F,MATR,35_40     ,White,M,ENGLISH,Employed,BOKSBURG,Gauteng,1
+1301_1400,F,DEGR,20_21     ,White,F,ENGLISH,Unemployed,BELLVILLE,Western Cape,1
+0000_0000,F,DEGR,22_23     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,M,SISWATI,Employed,WONDERBOOM,Gauteng,1
+0901_0950,F,DIPL,20_21     ,African,M,NORTHERN SOTHO,Unemployed,ALBERTON,Gauteng,1
+0000_0000,F,DIPL,22_23     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,22_23     ,African,M,ISIXHOSA,Unemployed,MITCHELLS PLAIN,Western Cape,1
+1301_1400,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+0000_0000,F,DIPL,26_28     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,KUILS RIVER,Western Cape,1
+0901_0950,F,DIPL,20_21     ,African,F,ISIXHOSA,Employed,UMLAZI,KwaZulu-Natal,1
+0000_0000,F,HCER,24_25     ,African,M,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,1
+0901_0950,F,DIPL,20_21     ,African,M,ENGLISH,Employed,PIETERSBURG,North Eastern,1
+1401_3000,T,MATR,29_34     ,White,M,AFRIKAANS,Employed,ROODEPOORT,Gauteng,1
+0000_0000,T,DEGR,24_25     ,White,M,ENGLISH,Unemployed,ROODEPOORT,Gauteng,1
+0951_1000,F,DIPL,22_23     ,African,M,ISIZULU,Employed,GARANKUWA,Midlands,1
+1201_1300,T,DEGR,20_21     ,African,M,ISIZULU,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,DIPL,24_25     ,African,F,SETSWANA,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,KWAL,24_25     ,African,F,ENGLISH,Student,JOHANNESBURG,Gauteng,1
+1101_1150,F,DEGR,24_25     ,African,M,ISIZULU,Employed,RANDBURG,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,F,TSHIVENDA,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,DIPL,29_34     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,BELLVILLE,Western Cape,1
+1201_1300,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+1401_3000,T,DEGR,20_21     ,Coloured,F,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DIPL,18_19     ,African,F,ENGLISH,Employed,GARANKUWA,Midlands,1
+0901_0950,T,MATR,35_40     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,24_25     ,White,F,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+0901_0950,T,SENR,29_34     ,African,M,SETSWANA,Employed,GOODWOOD,Western Cape,1
+1051_1100,T,DEGR,26_28     ,African,F,SETSWANA,Unemployed,BOKSBURG,Gauteng,1
+0000_0000,T,KWAL,22_23     ,African,F,SETSWANA,Student,RANDBURG,Gauteng,1
+1201_1300,F,DEGR,22_23     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,26_28     ,African,M,SISWATI,Employed,KEMPTON PARK,Gauteng,1
+0001_0600,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,F,ISIXHOSA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,ISIXHOSA,Employed,DURBAN,KwaZulu-Natal,1
+1051_1100,T,DEGR,24_25     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,1
+1051_1100,T,DEGR,26_28     ,Coloured,F,AFRIKAANS,Employed,ROODEPOORT,Gauteng,1
+0601_0800,F,HCER,29_34     ,African,M,TSHIVENDA,Unemployed,PRETORIA,Gauteng,1
+0851_0900,F,DIPL,26_28     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+0951_1000,T,DIPL,24_25     ,African,F,ENGLISH,Employed,KEMPTON PARK,Gauteng,1
+1151_1200,F,DEGR,20_21     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,24_25     ,African,F,NORTHERN SOTHO,Unemployed,WITBANK,North Eastern,1
+0000_0000,T,DEGR,18_19     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,F,SETSWANA,Employed,KEMPTON PARK,Gauteng,1
+1401_3000,T,DEGR,24_25     ,White,M,AFR/ENG,Unemployed,BELLVILLE,Western Cape,1
+0601_0800,T,SENR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1051_1100,F,DEGR,22_23     ,African,M,ENGLISH,Unemployed,PINETOWN,KwaZulu-Natal,1
+1301_1400,T,DEGR,26_28     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0001_0600,F,KWAL,20_21     ,African,F,ENGLISH,Employed,RUSTENBURG,Midlands,1
+1301_1400,T,DEGR,22_23     ,African,M,NORTHERN SOTHO,Unemployed,BENONI,Gauteng,1
+1401_3000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+1201_1300,F,DEGR,22_23     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,M,ISIXHOSA,Unemployed,JOHANNESBURG,Gauteng,1
+1401_3000,T,DEGR,26_28     ,White,F,AFRIKAANS,Employed,ROODEPOORT,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,F,ISIZULU,Employed,PRETORIA,Gauteng,1
+0001_0600,T,MATR,29_34     ,African,M,SISWATI,Employed,Unknown,Unknown,1
+0951_1000,T,DIPL,24_25     ,African,M,SETSWANA,Employed,WONDERBOOM,Gauteng,1
+0851_0900,T,HCER,22_23     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,20_21     ,Indian,F,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,KWAL,26_28     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0901_0950,T,DEGR,24_25     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+0000_0000,T,DEGR,29_34     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DIPL,26_28     ,African,F,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+1401_3000,T,DEGR,24_25     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+0951_1000,T,DIPL,29_34     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+1201_1300,F,DEGR,18_19     ,African,F,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+1151_1200,T,DEGR,24_25     ,Indian,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+0000_0000,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+0801_0850,T,DIPL,24_25     ,African,F,ISIZULU,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,M,ENGLISH,Unemployed,ROODEPOORT,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,F,ISIZULU,Employed,GERMISTON,Gauteng,1
+1301_1400,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+1151_1200,T,DEGR,26_28     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+0001_0600,F,SENR,29_34     ,African,M,ISIXHOSA,Employed,BELLVILLE,Western Cape,1
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,1
+0000_0000,F,DIPL,29_34     ,African,F,TSHIVENDA,Unemployed,ROODEPOORT,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,1
+1001_1050,T,SENR,35_40     ,African,M,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,1
+1201_1300,F,DEGR,20_21     ,African,F,SETSWANA,Employed,KEMPTON PARK,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,M,ISIXHOSA,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+1101_1150,F,DEGR,20_21     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,1
+0901_0950,F,DIPL,20_21     ,African,M,SETSWANA,Unemployed,ROODEPOORT,Gauteng,1
+1301_1400,T,MATR,35_40     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,1
+0601_0800,T,DEGR,29_34     ,Indian,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1051_1100,T,DEGR,22_23     ,African,M,ENGLISH,Unemployed,GOODWOOD,Western Cape,1
+0000_0000,T,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,BENONI,Gauteng,1
+0901_0950,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,GOODWOOD,Western Cape,1
+1301_1400,T,MATR,35_40     ,African,M,SETSWANA,Employed,WONDERBOOM,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,ISINDEBELE,Unemployed,WITBANK,North Eastern,1
+0000_0000,F,DEGR,18_19     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+1001_1050,F,DEGR,24_25     ,African,F,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,Indian,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1401_3000,T,MATR,35_40     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+0901_0950,F,DIPL,20_21     ,African,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,M,ENGLISH,Unemployed,MITCHELLS PLAIN,Western Cape,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0901_0950,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,1
+0000_0000,F,DEGR,18_19     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0901_0950,T,DEGR,20_21     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,20_21     ,Indian,F,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+0000_0000,T,DEGR,22_23     ,White,M,AFRIKAANS,Unemployed,KEMPTON PARK,Gauteng,1
+0001_0600,T,SENR,35_40     ,African,F,XITSONGA,Employed,GERMISTON,Gauteng,1
+1401_3000,T,DEGR,29_34     ,Indian,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+1301_1400,T,DEGR,22_23     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1101_1150,T,MATR,29_34     ,African,F,ISIXHOSA,Employed,PRETORIA,Gauteng,1
+0601_0800,T,DEGR,22_23     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,M,SISWATI,Employed,KEMPTON PARK,Gauteng,1
+1401_3000,T,DEGR,22_23     ,White,F,AFRIKAANS,Unemployed,DURBAN,KwaZulu-Natal,1
+1151_1200,T,MATR,41_50     ,African,M,ISIZULU,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,24_25     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+0951_1000,F,DIPL,24_25     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,22_23     ,Indian,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1201_1300,T,DEGR,22_23     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,M,SESOTHO,Employed,Unknown,Unknown,1
+1001_1050,T,DEGR,24_25     ,White,M,ENGLISH,Employed,BENONI,Gauteng,1
+0901_0950,T,DIPL,20_21     ,African,F,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,26_28     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,M,SETSWANA,Unemployed,JOHANNESBURG,Gauteng,1
+0001_0600,T,SENR,29_34     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1201_1300,T,DEGR,22_23     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1051_1100,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,ALBERTON,Gauteng,1
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,T,DEGR,26_28     ,White,F,AFR/ENG,Employed,ROODEPOORT,Gauteng,1
+0801_0850,F,HCER,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0951_1000,T,DEGR,26_28     ,Coloured,M,ENGLISH,Unemployed,GOODWOOD,Western Cape,1
+1201_1300,T,DEGR,29_34     ,African,M,ISIZULU,Employed,WITBANK,North Eastern,1
+0000_0000,T,DIPL,26_28     ,African,F,ISIZULU,Student,DURBAN,KwaZulu-Natal,1
+1201_1300,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1301_1400,T,DEGR,22_23     ,African,M,NORTHERN SOTHO,Unemployed,Unknown,Unknown,1
+0951_1000,T,DIPL,26_28     ,African,F,SESOTHO,Unemployed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,22_23     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+0851_0900,T,SENR,35_40     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,1
+1301_1400,T,DEGR,22_23     ,African,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0951_1000,T,DIPL,26_28     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+1301_1400,T,MATR,29_34     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1051_1100,F,DEGR,18_19     ,African,F,SESOTHO,Unemployed,WONDERBOOM,Gauteng,1
+1201_1300,T,DEGR,22_23     ,White,F,AFR/ENG,Unemployed,BENONI,Gauteng,1
+0000_0000,F,DIPL,29_34     ,African,F,ISIZULU,Employed,GARANKUWA,Midlands,1
+1301_1400,T,DEGR,26_28     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,F,TSHIVENDA,Employed,KEMPTON PARK,Gauteng,1
+1051_1100,T,MATR,29_34     ,African,M,ISIZULU,Employed,WONDERBOOM,Gauteng,1
+1151_1200,F,DEGR,20_21     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,KUILS RIVER,Western Cape,1
+0851_0900,F,DIPL,24_25     ,African,M,SETSWANA,Unemployed,RUSTENBURG,Midlands,1
+0901_0950,T,DEGR,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,BELLVILLE,Western Cape,1
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1001_1050,F,DEGR,20_21     ,African,M,SETSWANA,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,Indian,F,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0951_1000,T,DIPL,24_25     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1201_1300,T,DEGR,20_21     ,African,F,ENGLISH,Unemployed,UMLAZI,KwaZulu-Natal,1
+0001_0600,T,KWAL,29_34     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,1
+1151_1200,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1101_1150,T,DEGR,24_25     ,White,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1301_1400,T,DEGR,22_23     ,Coloured,M,ENGLISH,Employed,BOKSBURG,Gauteng,1
+1301_1400,T,DEGR,22_23     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1101_1150,T,DEGR,22_23     ,African,F,ISIXHOSA,Employed,WITBANK,North Eastern,1
+0801_0850,T,MATR,29_34     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,ISIXHOSA,Unemployed,RANDBURG,Gauteng,1
+1401_3000,T,DEGR,22_23     ,African,F,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+1201_1300,F,DEGR,20_21     ,Coloured,F,ENGLISH,Unemployed,KUILS RIVER,Western Cape,1
+0000_0000,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0951_1000,F,HCER,26_28     ,African,F,SESOTHO,Unemployed,PRETORIA,Gauteng,1
+0001_0600,T,KWAL,35_40     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,1
+1001_1050,T,DIPL,24_25     ,African,F,NORTHERN SOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+0851_0900,F,DIPL,20_21     ,African,F,ISIZULU,Unemployed,BENONI,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,ROODEPOORT,Gauteng,1
+0000_0000,T,DEGR,20_21     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,ALBERTON,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,F,TSHIVENDA,Unemployed,ROODEPOORT,Gauteng,1
+1001_1050,T,DIPL,24_25     ,African,F,SESOTHO,Employed,GERMISTON,Gauteng,1
+0000_0000,T,DEGR,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0601_0800,T,DEGR,29_34     ,Coloured,M,AFRIKAANS,Employed,KUILS RIVER,Western Cape,1
+0000_0000,F,DEGR,18_19     ,Indian,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1201_1300,F,DEGR,20_21     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+0901_0950,F,DIPL,24_25     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DEGR,29_34     ,White,M,ENGLISH,Employed,ALBERTON,Gauteng,1
+0000_0000,T,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,18_19     ,Indian,F,ENGLISH,Unemployed,ALBERTON,Gauteng,1
+0000_0000,T,HCER,26_28     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+0000_0000,T,DIPL,26_28     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1301_1400,T,DEGR,26_28     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1101_1150,T,DEGR,20_21     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DEGR,20_21     ,White,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,ALBERTON,Gauteng,1
+1051_1100,T,DIPL,29_34     ,African,F,TSHIVENDA,Unemployed,KEMPTON PARK,Gauteng,1
+1051_1100,T,DEGR,22_23     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,HCER,29_34     ,African,M,SISWATI,Unemployed,WONDERBOOM,Gauteng,1
+0951_1000,T,DEGR,24_25     ,African,F,TSHIVENDA,Unemployed,ALBERTON,Gauteng,1
+0000_0000,T,DIPL,29_34     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,22_23     ,African,F,SISWATI,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,22_23     ,Coloured,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1101_1150,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,GOODWOOD,Western Cape,1
+1051_1100,F,DIPL,26_28     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+0000_0000,F,KWAL,35_40     ,African,F,ENGLISH,Employed,Unknown,Unknown,1
+0951_1000,F,DEGR,20_21     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+1001_1050,F,DIPL,20_21     ,African,F,SETSWANA,Unemployed,RUSTENBURG,Midlands,1
+1201_1300,F,DEGR,20_21     ,White,M,AFR/ENG,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,20_21     ,African,M,XITSONGA,Unemployed,WITBANK,North Eastern,1
+0000_0000,T,KWAL,26_28     ,African,F,ENGLISH,Employed,GOODWOOD,Western Cape,1
+1101_1150,T,DEGR,24_25     ,African,F,TSHIVENDA,Employed,WONDERBOOM,Gauteng,1
+1001_1050,T,DEGR,24_25     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0951_1000,T,DIPL,24_25     ,African,F,SESOTHO,Employed,PRETORIA,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,BOKSBURG,Gauteng,1
+1301_1400,T,DEGR,26_28     ,African,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,SETSWANA,Employed,GARANKUWA,Midlands,1
+0000_0000,T,DEGR,22_23     ,Indian,M,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0901_0950,T,HCER,29_34     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+1151_1200,T,DEGR,24_25     ,African,F,ISIXHOSA,Employed,RANDBURG,Gauteng,1
+1401_3000,F,DEGR,20_21     ,White,F,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1151_1200,F,DEGR,20_21     ,Coloured,F,ENGLISH,Employed,GOODWOOD,Western Cape,1
+0000_0000,T,DIPL,29_34     ,African,M,SESOTHO,Employed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0951_1000,T,DIPL,26_28     ,African,M,XITSONGA,Unemployed,RANDBURG,Gauteng,1
+1101_1150,F,DEGR,24_25     ,African,M,ISINDEBELE,Employed,WITBANK,North Eastern,1
+0000_0000,T,DIPL,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1101_1150,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+1151_1200,F,DEGR,22_23     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1101_1150,F,DEGR,26_28     ,African,M,XITSONGA,Employed,GERMISTON,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,29_34     ,African,M,ISIZULU,Employed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,F,SETSWANA,Employed,BOKSBURG,Gauteng,1
+1001_1050,F,DIPL,24_25     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1051_1100,T,SENR,41_50     ,African,M,ISIXHOSA,Employed,BELLVILLE,Western Cape,1
+0951_1000,F,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,24_25     ,African,M,XITSONGA,Student,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,35_40     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DIPL,20_21     ,African,F,ISIZULU,Student,UMLAZI,KwaZulu-Natal,1
+0601_0800,F,DIPL,29_34     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,F,ISIXHOSA,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,1
+0901_0950,T,DIPL,24_25     ,African,F,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+1001_1050,T,SENR,35_40     ,African,M,ENGLISH,Employed,KEMPTON PARK,Gauteng,1
+0601_0800,T,SENR,29_34     ,African,F,XITSONGA,Employed,PRETORIA,Gauteng,1
+0901_0950,T,SENR,29_34     ,African,F,ISIXHOSA,Employed,KUILS RIVER,Western Cape,1
+0001_0600,T,KWAL,26_28     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1151_1200,F,DEGR,26_28     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1301_1400,F,DEGR,20_21     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,XITSONGA,Employed,RANDBURG,Gauteng,1
+0901_0950,T,DEGR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+0000_0000,F,DEGR,18_19     ,White,F,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,1
+0000_0000,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,BOKSBURG,Gauteng,1
+1201_1300,F,DEGR,20_21     ,White,F,AFR/ENG,Employed,BENONI,Gauteng,1
+1301_1400,T,DEGR,24_25     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,1
+0001_0600,F,MATR,18_19     ,White,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,22_23     ,African,M,SETSWANA,Unemployed,PIETERSBURG,North Eastern,1
+1201_1300,T,DEGR,18_19     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+1201_1300,T,DEGR,24_25     ,African,M,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,41_50     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+1301_1400,T,DEGR,20_21     ,Coloured,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1201_1300,F,DEGR,20_21     ,African,F,ENGLISH,Unemployed,BELLVILLE,Western Cape,1
+1401_3000,T,MATR,41_50     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1301_1400,T,MATR,35_40     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1101_1150,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+1201_1300,T,MATR,29_34     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1151_1200,T,MATR,29_34     ,White,M,ENGLISH,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,18_19     ,Indian,M,ENGLISH,Student,RANDBURG,Gauteng,1
+0601_0800,T,MATR,29_34     ,African,F,SESOTHO,Employed,KEMPTON PARK,Gauteng,1
+0001_0600,F,DIPL,18_19     ,African,F,XITSONGA,Unemployed,KEMPTON PARK,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,F,XITSONGA,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0951_1000,T,DIPL,26_28     ,African,F,ISIXHOSA,Unemployed,GOODWOOD,Western Cape,1
+1151_1200,F,DEGR,24_25     ,Indian,M,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0951_1000,F,DIPL,22_23     ,African,M,XITSONGA,Employed,WONDERBOOM,Gauteng,1
+0000_0000,T,DEGR,24_25     ,Indian,F,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+0000_0000,T,DEGR,22_23     ,Indian,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1101_1150,F,MATR,35_40     ,African,M,SISWATI,Employed,Unknown,Unknown,1
+0901_0950,F,SENR,29_34     ,African,F,ISIZULU,Student,DURBAN,KwaZulu-Natal,1
+1051_1100,F,MATR,35_40     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,20_21     ,Coloured,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1201_1300,T,DEGR,22_23     ,White,F,AFRIKAANS,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,KWAL,29_34     ,African,F,SETSWANA,Unemployed,SOSHANGUWE,Gauteng,1
+1401_3000,T,MATR,29_34     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+0801_0850,T,DIPL,26_28     ,African,F,ISIZULU,Unemployed,ROODEPOORT,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,M,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,SESOTHO,Student,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,F,SESOTHO,Employed,Unknown,Unknown,1
+0001_0600,T,KWAL,35_40     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1201_1300,T,MATR,41_50     ,Coloured,F,AFR/ENG,Employed,KUILS RIVER,Western Cape,1
+0000_0000,F,KWAL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,ROODEPOORT,Gauteng,1
+0951_1000,F,DIPL,24_25     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,18_19     ,Indian,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,GERMISTON,Gauteng,1
+0000_0000,T,DEGR,29_34     ,Indian,F,ENGLISH,Employed,PRETORIA,Gauteng,1
+1051_1100,F,SENR,29_34     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0000_0000,F,DEGR,29_34     ,Indian,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,22_23     ,African,M,SESOTHO,Employed,RUSTENBURG,Midlands,1
+1201_1300,T,DEGR,22_23     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+1301_1400,T,DEGR,29_34     ,African,M,ISIZULU,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,26_28     ,African,M,ISIZULU,Employed,RANDBURG,Gauteng,1
+0901_0950,T,KWAL,29_34     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+0851_0900,T,DEGR,29_34     ,African,M,XITSONGA,Employed,PINETOWN,KwaZulu-Natal,1
+0001_0600,T,KWAL,29_34     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,1
+0001_0600,F,MATR,35_40     ,White,M,ENGLISH,Employed,BENONI,Gauteng,1
+1101_1150,F,DEGR,20_21     ,White,F,AFRIKAANS,Unemployed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+1201_1300,T,DEGR,26_28     ,Indian,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1201_1300,F,DEGR,22_23     ,African,F,ENGLISH,Unemployed,GERMISTON,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,M,ENGLISH,Unemployed,BOKSBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1101_1150,F,MATR,29_34     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+0951_1000,F,DIPL,29_34     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,1
+0901_0950,T,DEGR,20_21     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,1
+1201_1300,T,DEGR,29_34     ,African,F,ISIZULU,Employed,ALBERTON,Gauteng,1
+0851_0900,T,MATR,29_34     ,African,M,SISWATI,Employed,KEMPTON PARK,Gauteng,1
+1301_1400,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,GERMISTON,Gauteng,1
+0000_0000,T,DEGR,24_25     ,White,F,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,ALBERTON,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,KUILS RIVER,Western Cape,1
+1401_3000,F,MATR,35_40     ,Indian,M,ENGLISH,Employed,BOKSBURG,Gauteng,1
+1401_3000,T,MATR,35_40     ,White,F,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0801_0850,F,HCER,29_34     ,African,F,SISWATI,Unemployed,ALBERTON,Gauteng,1
+0951_1000,T,SENR,35_40     ,African,F,ISIXHOSA,Employed,RANDBURG,Gauteng,1
+1151_1200,T,DEGR,24_25     ,White,M,AFR/ENG,Employed,RANDBURG,Gauteng,1
+1151_1200,T,DEGR,22_23     ,African,F,SESOTHO,Employed,DURBAN,KwaZulu-Natal,1
+1051_1100,F,DIPL,29_34     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1301_1400,T,MATR,29_34     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIXHOSA,Unemployed,KEMPTON PARK,Gauteng,1
+0801_0850,T,HCER,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1301_1400,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+1101_1150,F,DEGR,20_21     ,Indian,F,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,PINETOWN,KwaZulu-Natal,1
+0000_0000,T,DEGR,18_19     ,Coloured,M,ENGLISH,Unemployed,PINETOWN,KwaZulu-Natal,1
+1201_1300,T,DEGR,26_28     ,African,F,SISWATI,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DIPL,20_21     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,22_23     ,Indian,M,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,1
+1101_1150,T,DEGR,22_23     ,Indian,F,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+1301_1400,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,1
+1301_1400,T,DEGR,20_21     ,Coloured,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0801_0850,T,DEGR,29_34     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,24_25     ,African,M,XITSONGA,Unemployed,SOSHANGUWE,Gauteng,1
+1151_1200,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,1
+1201_1300,T,DEGR,20_21     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,26_28     ,Coloured,F,ENGLISH,Employed,BELLVILLE,Western Cape,1
+1051_1100,F,DEGR,20_21     ,African,F,ISIXHOSA,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,20_21     ,White,M,ENGLISH,Student,GERMISTON,Gauteng,1
+0901_0950,T,DEGR,20_21     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1151_1200,T,DEGR,29_34     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,26_28     ,African,M,SETSWANA,Employed,WONDERBOOM,Gauteng,1
+1201_1300,T,DEGR,22_23     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,1
+0001_0600,F,KWAL,29_34     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1201_1300,F,DEGR,24_25     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,M,SETSWANA,Employed,RANDBURG,Gauteng,1
+0000_0000,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+1201_1300,T,MATR,35_40     ,Indian,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,African,M,NORTHERN SOTHO,Unemployed,WITBANK,North Eastern,1
+1101_1150,T,DEGR,20_21     ,White,M,AFR/ENG,Unemployed,KEMPTON PARK,Gauteng,1
+1401_3000,T,MATR,35_40     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,F,ISIZULU,Unemployed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,M,ISIZULU,Employed,PRETORIA,Gauteng,1
+1001_1050,F,DEGR,29_34     ,African,F,TSHIVENDA,Unemployed,ROODEPOORT,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,F,SENR,35_40     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1101_1150,F,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+0951_1000,T,DIPL,26_28     ,African,F,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+1051_1100,T,MATR,29_34     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1151_1200,T,DEGR,29_34     ,African,M,SISWATI,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,GERMISTON,Gauteng,1
+1051_1100,T,DEGR,24_25     ,Indian,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1301_1400,T,MATR,29_34     ,African,F,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+1201_1300,T,DEGR,26_28     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1101_1150,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1301_1400,T,DEGR,24_25     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1301_1400,T,MATR,29_34     ,African,M,ISIZULU,Employed,BENONI,Gauteng,1
+0000_0000,T,DEGR,20_21     ,African,M,ENGLISH,Student,DURBAN,KwaZulu-Natal,1
+1001_1050,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+0951_1000,T,MATR,29_34     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1101_1150,T,DIPL,24_25     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+1201_1300,F,MATR,35_40     ,African,F,SETSWANA,Employed,PRETORIA,Gauteng,1
+0851_0900,F,MATR,35_40     ,White,M,ENGLISH,Employed,ALBERTON,Gauteng,1
+1151_1200,T,DEGR,29_34     ,African,F,ISINDEBELE,Employed,SOSHANGUWE,Gauteng,1
+0000_0000,T,KWAL,26_28     ,Coloured,M,AFR/ENG,Employed,BELLVILLE,Western Cape,1
+0001_0600,T,KWAL,35_40     ,African,F,ISIZULU,Employed,PRETORIA,Gauteng,1
+1401_3000,T,MATR,29_34     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,F,DEGR,26_28     ,African,F,SETSWANA,Unemployed,RUSTENBURG,Midlands,1
+0000_0000,T,KWAL,41_50     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,ROODEPOORT,Gauteng,1
+0000_0000,T,DEGR,24_25     ,African,M,ISIZULU,Unemployed,BENONI,Gauteng,1
+0000_0000,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,BELLVILLE,Western Cape,1
+0000_0000,F,DEGR,22_23     ,White,M,ENGLISH,Employed,BOKSBURG,Gauteng,1
+1201_1300,T,MATR,29_34     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,1
+0851_0900,T,DIPL,29_34     ,African,F,NORTHERN SOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,F,MATR,35_40     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,24_25     ,African,M,ISIZULU,Employed,GERMISTON,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,M,ISIZULU,Employed,BELLVILLE,Western Cape,1
+1101_1150,T,DEGR,22_23     ,White,M,AFRIKAANS,Unemployed,WONDERBOOM,Gauteng,1
+1401_3000,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,BENONI,Gauteng,1
+1101_1150,F,DEGR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,GOODWOOD,Western Cape,1
+1201_1300,T,MATR,35_40     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+0000_0000,F,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,1
+1101_1150,F,DEGR,20_21     ,Coloured,M,ENGLISH,Unemployed,BELLVILLE,Western Cape,1
+1201_1300,T,DEGR,22_23     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0901_0950,F,HCER,26_28     ,African,F,XITSONGA,Unemployed,SOSHANGUWE,Gauteng,1
+1101_1150,T,DEGR,20_21     ,African,M,ISIZULU,Unemployed,BENONI,Gauteng,1
+1101_1150,T,KWAL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,1
+1401_3000,T,MATR,35_40     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,F,MATR,35_40     ,African,M,ISINDEBELE,Employed,WONDERBOOM,Gauteng,1
+0901_0950,F,SENR,29_34     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,1
+0951_1000,T,MATR,41_50     ,Coloured,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1001_1050,T,DEGR,29_34     ,White,M,ENGLISH,Employed,ROODEPOORT,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,1
+0801_0850,F,DIPL,22_23     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,22_23     ,African,F,XITSONGA,Employed,PRETORIA,Gauteng,1
+1051_1100,F,MATR,35_40     ,African,M,ISIZULU,Unemployed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0951_1000,T,SENR,35_40     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+0601_0800,F,HCER,26_28     ,African,M,ENGLISH,Unemployed,ALBERTON,Gauteng,1
+1051_1100,F,MATR,41_50     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+1051_1100,F,DIPL,29_34     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+0000_0000,T,DEGR,20_21     ,White,F,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1151_1200,T,MATR,35_40     ,African,M,XITSONGA,Employed,ROODEPOORT,Gauteng,1
+1151_1200,F,DEGR,22_23     ,White,M,AFRIKAANS,Employed,BOKSBURG,Gauteng,1
+0951_1000,F,DIPL,26_28     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DIPL,29_34     ,African,M,XITSONGA,Unemployed,GARANKUWA,Midlands,1
+1101_1150,F,DEGR,26_28     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1101_1150,T,DEGR,24_25     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,Coloured,M,AFR/ENG,Unemployed,GOODWOOD,Western Cape,1
+0901_0950,T,DIPL,24_25     ,African,F,NORTHERN SOTHO,Unemployed,WITBANK,North Eastern,1
+0000_0000,T,KWAL,22_23     ,White,M,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,1
+0901_0950,T,SENR,29_34     ,African,M,ISIXHOSA,Employed,KUILS RIVER,Western Cape,1
+0601_0800,T,SENR,35_40     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,1
+1401_3000,F,MATR,35_40     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,29_34     ,African,F,SETSWANA,Employed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,26_28     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+0901_0950,T,MATR,29_34     ,African,F,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+1001_1050,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,F,TSHIVENDA,Employed,KEMPTON PARK,Gauteng,1
+0901_0950,F,DIPL,29_34     ,African,M,ISIZULU,Unemployed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,22_23     ,Coloured,M,ENGLISH,Unemployed,MITCHELLS PLAIN,Western Cape,1
+0601_0800,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,1
+1001_1050,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,BELLVILLE,Western Cape,1
+0901_0950,T,SENR,41_50     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,22_23     ,African,F,ISIZULU,Unemployed,PINETOWN,KwaZulu-Natal,1
+0000_0000,F,DIPL,24_25     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,KWAL,41_50     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0601_0800,T,HCER,22_23     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,1
+0951_1000,T,SENR,29_34     ,African,F,ISIZULU,Employed,PRETORIA,Gauteng,1
+0801_0850,T,SENR,29_34     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1201_1300,T,DEGR,24_25     ,African,M,ISIXHOSA,Unemployed,PRETORIA,Gauteng,1
+0001_0600,T,MATR,29_34     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,F,KWAL,26_28     ,Indian,F,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,F,SETSWANA,Employed,BOKSBURG,Gauteng,1
+0000_0000,F,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,ROODEPOORT,Gauteng,1
+1151_1200,F,DEGR,29_34     ,African,M,SESOTHO,Unemployed,SOSHANGUWE,Gauteng,1
+1401_3000,T,DEGR,24_25     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,24_25     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+1001_1050,F,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,1
+1201_1300,T,DEGR,29_34     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,M,XITSONGA,Employed,KUILS RIVER,Western Cape,1
+1201_1300,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,22_23     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1101_1150,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Unemployed,GARANKUWA,Midlands,1
+1301_1400,F,MATR,29_34     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,1
+1101_1150,T,DEGR,24_25     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,F,AFRIKAANS,Employed,KEMPTON PARK,Gauteng,1
+1401_3000,T,MATR,29_34     ,Indian,M,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,1
+1401_3000,T,MATR,29_34     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,F,DEGR,20_21     ,African,M,ISIZULU,Unemployed,KEMPTON PARK,Gauteng,1
+1401_3000,T,DEGR,26_28     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,1
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,F,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+0901_0950,F,SENR,29_34     ,African,F,XITSONGA,Employed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,F,DIPL,26_28     ,African,F,XITSONGA,Unemployed,WONDERBOOM,Gauteng,1
+0601_0800,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,WONDERBOOM,Gauteng,1
+1101_1150,F,DEGR,18_19     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+1401_3000,T,DEGR,24_25     ,White,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+1401_3000,T,DEGR,26_28     ,African,M,ISINDEBELE,Employed,PRETORIA,Gauteng,1
+1101_1150,F,DEGR,24_25     ,White,M,ENGLISH,Employed,ROODEPOORT,Gauteng,1
+0000_0000,F,HCER,29_34     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+0601_0800,T,DEGR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,T,MATR,35_40     ,African,F,ISIXHOSA,Employed,WITBANK,North Eastern,1
+1201_1300,F,DEGR,26_28     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,GERMISTON,Gauteng,1
+1301_1400,F,MATR,29_34     ,White,M,AFR/ENG,Unemployed,RANDBURG,Gauteng,1
+1001_1050,T,DEGR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,HCER,26_28     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1401_3000,T,DEGR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,29_34     ,African,F,ISIZULU,Employed,SOSHANGUWE,Gauteng,1
+1301_1400,T,MATR,29_34     ,African,M,XITSONGA,Employed,PIETERSBURG,North Eastern,1
+1151_1200,F,DEGR,26_28     ,African,F,SESOTHO,Unemployed,DURBAN,KwaZulu-Natal,1
+1001_1050,F,DIPL,24_25     ,African,M,XITSONGA,Unemployed,GARANKUWA,Midlands,1
+1301_1400,F,DEGR,26_28     ,African,F,SETSWANA,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,T,MATR,35_40     ,African,M,SESOTHO,Employed,BOKSBURG,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,M,ISIXHOSA,Employed,PRETORIA,Gauteng,1
+1401_3000,F,DEGR,24_25     ,Coloured,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+1301_1400,F,DEGR,24_25     ,African,F,ISINDEBELE,Employed,SOSHANGUWE,Gauteng,1
+0001_0600,F,SENR,29_34     ,African,F,SESOTHO,Employed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,22_23     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,26_28     ,White,M,AFRIKAANS,Employed,Unknown,Unknown,1
+0000_0000,T,DIPL,26_28     ,African,F,ISIXHOSA,Student,ALBERTON,Gauteng,1
+0851_0900,T,SENR,35_40     ,African,M,ISIZULU,Employed,ROODEPOORT,Gauteng,1
+0801_0850,T,SENR,35_40     ,African,F,ENGLISH,Unemployed,WONDERBOOM,Gauteng,1
+1401_3000,T,MATR,41_50     ,White,M,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,1
+1101_1150,T,DEGR,29_34     ,African,F,SESOTHO,Employed,ROODEPOORT,Gauteng,1
+1051_1100,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,1
+1151_1200,F,MATR,29_34     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1001_1050,F,DEGR,26_28     ,White,M,AFRIKAANS,Employed,RUSTENBURG,Midlands,1
+1201_1300,F,DEGR,26_28     ,African,M,ISIZULU,Unemployed,BENONI,Gauteng,1
+0000_0000,F,DEGR,26_28     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DEGR,26_28     ,African,M,SESOTHO,Unemployed,RUSTENBURG,Midlands,1
+0000_0000,F,DEGR,29_34     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,1
+1401_3000,F,DEGR,29_34     ,African,M,TSHIVENDA,Unemployed,KEMPTON PARK,Gauteng,1
+0801_0850,F,DIPL,29_34     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+1401_3000,T,DEGR,20_21     ,White,M,AFR/ENG,Unemployed,PRETORIA,Gauteng,1
+1001_1050,F,DIPL,24_25     ,African,F,SETSWANA,Unemployed,BENONI,Gauteng,1
+0000_0000,T,DEGR,20_21     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0000_0000,F,HCER,29_34     ,African,M,XITSONGA,Employed,GERMISTON,Gauteng,1
+1001_1050,F,DIPL,24_25     ,African,F,NORTHERN SOTHO,Unemployed,GERMISTON,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,PINETOWN,KwaZulu-Natal,1
+1201_1300,F,DEGR,26_28     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,1
+1001_1050,F,DEGR,24_25     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1001_1050,T,SENR,35_40     ,African,M,ISINDEBELE,Employed,WITBANK,North Eastern,1
+0000_0000,F,DEGR,26_28     ,White,F,ENGLISH,Student,PRETORIA,Gauteng,1
+1101_1150,F,DEGR,26_28     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,F,DEGR,26_28     ,African,M,TSHIVENDA,Employed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,RANDBURG,Gauteng,1
+0001_0600,T,KWAL,35_40     ,African,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+0000_0000,F,DEGR,20_21     ,Indian,F,ENGLISH,Unemployed,UMLAZI,KwaZulu-Natal,1
+1101_1150,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+0801_0850,F,DIPL,26_28     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,1
+0000_0000,F,DEGR,24_25     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+0951_1000,F,DEGR,20_21     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0851_0900,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Unemployed,WITBANK,North Eastern,1
+1201_1300,T,DEGR,26_28     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1401_3000,T,MATR,41_50     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+0000_0000,F,KWAL,29_34     ,African,F,ISINDEBELE,Employed,JOHANNESBURG,Gauteng,1
+0851_0900,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,1
+0901_0950,F,DIPL,29_34     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,F,SENR,29_34     ,African,F,XITSONGA,Employed,RANDBURG,Gauteng,1
+0000_0000,F,KWAL,29_34     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Student,BENONI,Gauteng,1
+0801_0850,T,DEGR,20_21     ,African,F,ISIXHOSA,Employed,WONDERBOOM,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,F,SESOTHO,Employed,WONDERBOOM,Gauteng,1
+1051_1100,F,DEGR,24_25     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1051_1100,T,DIPL,22_23     ,African,M,ISIXHOSA,Unemployed,ROODEPOORT,Gauteng,1
+0851_0900,T,SENR,41_50     ,African,M,NORTHERN SOTHO,Employed,GERMISTON,Gauteng,1
+1401_3000,F,MATR,35_40     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+0000_0000,F,DEGR,29_34     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1001_1050,T,DEGR,18_19     ,Indian,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1101_1150,T,DEGR,29_34     ,African,F,ISIXHOSA,Employed,RANDBURG,Gauteng,1
+1151_1200,F,DEGR,22_23     ,African,F,ISIZULU,Unemployed,WITBANK,North Eastern,1
+0951_1000,F,DIPL,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0851_0900,F,DIPL,24_25     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1051_1100,F,DIPL,26_28     ,African,F,XITSONGA,Employed,KEMPTON PARK,Gauteng,1
+1201_1300,F,DEGR,29_34     ,Coloured,F,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,1
+0951_1000,F,DIPL,24_25     ,African,M,ISIZULU,Employed,WONDERBOOM,Gauteng,1
+1151_1200,T,DEGR,26_28     ,African,M,XITSONGA,Employed,SOSHANGUWE,Gauteng,1
+0601_0800,T,SENR,29_34     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,1
+0901_0950,F,DIPL,24_25     ,African,M,SETSWANA,Unemployed,SOSHANGUWE,Gauteng,1
+1051_1100,T,DEGR,29_34     ,African,M,XITSONGA,Unemployed,RANDBURG,Gauteng,1
+0000_0000,F,KWAL,41_50     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+1001_1050,T,SENR,29_34     ,African,F,TSHIVENDA,Unemployed,RANDBURG,Gauteng,1
+1301_1400,T,DEGR,22_23     ,African,M,SISWATI,Unemployed,GARANKUWA,Midlands,1
+1201_1300,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,BENONI,Gauteng,1
+1101_1150,F,DEGR,26_28     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,1
+1151_1200,T,DEGR,29_34     ,African,F,XITSONGA,Employed,ROODEPOORT,Gauteng,1
+1201_1300,F,DEGR,24_25     ,White,M,AFRIKAANS,Employed,ROODEPOORT,Gauteng,1
+1001_1050,F,DEGR,20_21     ,White,M,AFRIKAANS,Employed,WONDERBOOM,Gauteng,1
+1401_3000,T,MATR,35_40     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,1
+0000_0000,F,DEGR,26_28     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,SENR,35_40     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,1
+0801_0850,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,SISWATI,Employed,Unknown,Unknown,1
+0951_1000,T,SENR,29_34     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+1151_1200,T,MATR,29_34     ,African,M,XITSONGA,Employed,WONDERBOOM,Gauteng,1
+1401_3000,T,DEGR,22_23     ,Indian,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0951_1000,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,ROODEPOORT,Gauteng,1
+1151_1200,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,Coloured,M,ENGLISH,Unemployed,KUILS RIVER,Western Cape,1
+1151_1200,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,RANDBURG,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,M,ISINDEBELE,Employed,RANDBURG,Gauteng,1
+1401_3000,T,DEGR,26_28     ,Indian,F,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+1101_1150,F,SENR,29_34     ,African,F,ISIZULU,Employed,SOSHANGUWE,Gauteng,1
+1401_3000,T,DEGR,20_21     ,Coloured,M,ENGLISH,Unemployed,BELLVILLE,Western Cape,1
+1101_1150,F,DEGR,24_25     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DIPL,20_21     ,African,M,SESOTHO,Employed,ALBERTON,Gauteng,1
+1301_1400,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,1
+0951_1000,F,DIPL,24_25     ,African,F,ISIXHOSA,Student,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,22_23     ,Coloured,F,ENGLISH,Employed,GERMISTON,Gauteng,1
+1001_1050,F,DIPL,26_28     ,Coloured,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0951_1000,T,DIPL,22_23     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+1101_1150,T,KWAL,35_40     ,African,M,ISIZULU,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,20_21     ,Indian,F,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,1
+1051_1100,T,MATR,41_50     ,Coloured,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,22_23     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+1401_3000,F,MATR,29_34     ,Coloured,F,ENGLISH,Employed,RUSTENBURG,Midlands,1
+0000_0000,F,HCER,29_34     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,1
+0601_0800,F,SENR,29_34     ,White,F,AFR/ENG,Unemployed,PRETORIA,Gauteng,1
+1101_1150,T,MATR,41_50     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+0901_0950,F,SENR,41_50     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,1
+1301_1400,T,MATR,35_40     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+0601_0800,F,SENR,35_40     ,African,F,ISIZULU,Employed,BOKSBURG,Gauteng,1
+1401_3000,F,MATR,29_34     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1301_1400,F,DEGR,26_28     ,White,F,AFR/ENG,Employed,KUILS RIVER,Western Cape,1
+0000_0000,T,DEGR,29_34     ,African,M,ISIZULU,Unemployed,WITBANK,North Eastern,1
+0601_0800,F,DEGR,29_34     ,African,M,ISIXHOSA,Employed,BELLVILLE,Western Cape,1
+1401_3000,T,DEGR,26_28     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1151_1200,F,DEGR,29_34     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,1
+0901_0950,F,DEGR,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+1151_1200,F,DEGR,22_23     ,African,M,ENGLISH,Unemployed,BOKSBURG,Gauteng,1
+0901_0950,T,SENR,29_34     ,African,F,SESOTHO,Employed,ALBERTON,Gauteng,1
+1101_1150,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+1101_1150,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,GERMISTON,Gauteng,1
+0000_0000,T,DEGR,22_23     ,White,M,ENGLISH,Unemployed,BELLVILLE,Western Cape,1
+0000_0000,T,DEGR,26_28     ,White,M,AFRIKAANS,Employed,JOHANNESBURG,Gauteng,1
+1151_1200,F,DEGR,22_23     ,African,F,ISIZULU,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,24_25     ,Indian,M,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,1
+1051_1100,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,1
+1401_3000,T,MATR,29_34     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,SETSWANA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,1
+1001_1050,F,DEGR,22_23     ,African,F,ISIZULU,Unemployed,WONDERBOOM,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,22_23     ,African,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+1001_1050,F,DEGR,22_23     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DIPL,24_25     ,African,F,SESOTHO,Unemployed,PRETORIA,Gauteng,1
+0851_0900,F,SENR,35_40     ,African,M,NORTHERN SOTHO,Unemployed,GARANKUWA,Midlands,1
+0000_0000,T,KWAL,26_28     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,1
+1101_1150,F,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+1201_1300,F,DEGR,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0851_0900,F,HCER,29_34     ,African,M,SESOTHO,Employed,WONDERBOOM,Gauteng,1
+1151_1200,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+0951_1000,F,DEGR,22_23     ,African,F,ISIZULU,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,1
+1301_1400,F,DEGR,24_25     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,F,SETSWANA,Unemployed,RUSTENBURG,Midlands,1
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DIPL,24_25     ,African,M,ISIZULU,Employed,GERMISTON,Gauteng,1
+0951_1000,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,F,SENR,29_34     ,African,M,XITSONGA,Unemployed,SOSHANGUWE,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,BOKSBURG,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,M,SESOTHO,Employed,KEMPTON PARK,Gauteng,1
+0951_1000,F,SENR,35_40     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,26_28     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+1301_1400,F,DEGR,22_23     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,1
+1301_1400,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,PRETORIA,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,ROODEPOORT,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1201_1300,F,DEGR,26_28     ,African,F,ISINDEBELE,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,24_25     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0851_0900,T,SENR,29_34     ,African,M,SESOTHO,Employed,GOODWOOD,Western Cape,1
+0000_0000,T,KWAL,26_28     ,African,F,TSHIVENDA,Unemployed,PRETORIA,Gauteng,1
+1001_1050,F,DIPL,26_28     ,Coloured,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1151_1200,F,MATR,35_40     ,African,F,SETSWANA,Employed,GARANKUWA,Midlands,1
+0000_0000,F,DEGR,29_34     ,African,F,SESOTHO,Employed,ALBERTON,Gauteng,1
+1001_1050,F,DEGR,22_23     ,African,F,SETSWANA,Unemployed,BOKSBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,GOODWOOD,Western Cape,1
+1101_1150,T,DEGR,29_34     ,African,F,SETSWANA,Employed,GOODWOOD,Western Cape,1
+0851_0900,T,SENR,35_40     ,African,F,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,ISIXHOSA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DIPL,24_25     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+1201_1300,T,DEGR,24_25     ,African,M,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+0601_0800,T,DEGR,29_34     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,22_23     ,African,M,TSHIVENDA,Unemployed,PIETERSBURG,North Eastern,1
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Unemployed,BOKSBURG,Gauteng,1
+1301_1400,T,DEGR,24_25     ,African,F,ISIZULU,Employed,ALBERTON,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1001_1050,T,DEGR,29_34     ,African,F,SESOTHO,Employed,BENONI,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,SESOTHO,Unemployed,ROODEPOORT,Gauteng,1
+0000_0000,T,DEGR,26_28     ,Coloured,M,ENGLISH,Employed,BELLVILLE,Western Cape,1
+0000_0000,F,KWAL,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+0000_0000,F,HCER,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DEGR,29_34     ,White,F,AFR/ENG,Employed,PRETORIA,Gauteng,1
+1301_1400,T,DEGR,22_23     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+0951_1000,T,DIPL,22_23     ,Coloured,M,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+0000_0000,F,DEGR,26_28     ,African,F,ENGLISH,Unemployed,BOKSBURG,Gauteng,1
+0000_0000,T,KWAL,26_28     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,T,SENR,35_40     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+0951_1000,T,DEGR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,22_23     ,African,F,SETSWANA,Unemployed,PRETORIA,Gauteng,1
+1401_3000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,1
+1201_1300,T,DEGR,26_28     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,1
+0001_0600,T,DEGR,29_34     ,African,M,SETSWANA,Unemployed,RUSTENBURG,Midlands,1
+1101_1150,F,DEGR,20_21     ,White,M,AFRIKAANS,Employed,BELLVILLE,Western Cape,1
+0001_0600,F,DIPL,18_19     ,Indian,M,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DIPL,20_21     ,African,F,NORTHERN SOTHO,Student,PRETORIA,Gauteng,1
+1201_1300,T,MATR,29_34     ,African,F,ISIXHOSA,Employed,BENONI,Gauteng,1
+1101_1150,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,F,SETSWANA,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,ISIZULU,Employed,BOKSBURG,Gauteng,1
+1001_1050,F,DIPL,22_23     ,African,F,SISWATI,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DIPL,24_25     ,African,F,ISIZULU,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DIPL,29_34     ,African,F,ISIXHOSA,Employed,PIETERSBURG,North Eastern,1
+0001_0600,T,SENR,35_40     ,African,M,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,1
+1001_1050,F,DIPL,24_25     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,1
+0801_0850,F,HCER,26_28     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1051_1100,F,DEGR,26_28     ,African,M,ISIZULU,Employed,WITBANK,North Eastern,1
+0851_0900,T,SENR,29_34     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,1
+1201_1300,T,DEGR,20_21     ,African,F,SETSWANA,Unemployed,JOHANNESBURG,Gauteng,1
+0801_0850,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,22_23     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1051_1100,T,SENR,29_34     ,African,F,ISIXHOSA,Employed,KUILS RIVER,Western Cape,1
+0000_0000,F,DIPL,35_40     ,African,F,ISIZULU,Unemployed,PINETOWN,KwaZulu-Natal,1
+1301_1400,F,DEGR,29_34     ,White,M,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,1
+1151_1200,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,1
+0951_1000,F,DIPL,24_25     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+0001_0600,F,MATR,20_21     ,White,F,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+0951_1000,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+0851_0900,T,DEGR,29_34     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,1
+0801_0850,T,DIPL,26_28     ,African,F,SETSWANA,Employed,SOSHANGUWE,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,F,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,26_28     ,Indian,M,ENGLISH,Employed,Unknown,Unknown,1
+0000_0000,F,HCER,26_28     ,African,M,SESOTHO,Unemployed,RUSTENBURG,Midlands,1
+0901_0950,T,DIPL,24_25     ,African,M,TSHIVENDA,Employed,KEMPTON PARK,Gauteng,1
+1001_1050,F,DIPL,26_28     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,1
+1001_1050,F,DIPL,26_28     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,35_40     ,African,M,SETSWANA,Employed,Unknown,Unknown,1
+1151_1200,F,DEGR,24_25     ,African,M,ENGLISH,Unemployed,SOSHANGUWE,Gauteng,1
+0851_0900,F,DIPL,29_34     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+0951_1000,T,DIPL,24_25     ,African,M,XITSONGA,Unemployed,SOSHANGUWE,Gauteng,1
+1051_1100,F,DEGR,22_23     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0000_0000,F,DIPL,22_23     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+1051_1100,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,1
+0000_0000,F,DEGR,26_28     ,African,F,ENGLISH,Employed,PIETERSBURG,North Eastern,1
+0001_0600,F,MATR,22_23     ,White,F,ENGLISH,Unemployed,GOODWOOD,Western Cape,1
+0000_0000,F,DEGR,20_21     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+0001_0600,F,DEGR,24_25     ,White,F,ENGLISH,Unemployed,BOKSBURG,Gauteng,1
+0951_1000,F,DIPL,20_21     ,African,F,ENGLISH,Unemployed,WITBANK,North Eastern,1
+1051_1100,T,DIPL,29_34     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,1
+0001_0600,T,HCER,29_34     ,African,M,ISIZULU,Student,UMLAZI,KwaZulu-Natal,1
+1051_1100,T,DIPL,26_28     ,African,F,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+0901_0950,F,DIPL,20_21     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1301_1400,F,DEGR,22_23     ,African,F,XITSONGA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+0000_0000,F,DEGR,22_23     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+0000_0000,T,DIPL,29_34     ,African,F,ISIXHOSA,Unemployed,DURBAN,KwaZulu-Natal,1
+0000_0000,T,DIPL,29_34     ,African,F,ISIXHOSA,Employed,GERMISTON,Gauteng,1
+0000_0000,F,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+1001_1050,T,DEGR,26_28     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DIPL,26_28     ,African,F,SESOTHO,Employed,RANDBURG,Gauteng,1
+1151_1200,F,DEGR,24_25     ,African,F,SETSWANA,Unemployed,RUSTENBURG,Midlands,1
+1101_1150,T,DEGR,22_23     ,Indian,F,ENGLISH,Employed,PRETORIA,Gauteng,1
+0951_1000,T,DIPL,24_25     ,African,M,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1201_1300,T,DEGR,26_28     ,African,F,ISIZULU,Employed,ALBERTON,Gauteng,1
+1301_1400,F,MATR,35_40     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DIPL,20_21     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+1201_1300,F,DEGR,20_21     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,1
+0951_1000,T,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DIPL,20_21     ,African,F,SETSWANA,Unemployed,PRETORIA,Gauteng,1
+0601_0800,T,KWAL,29_34     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,1
+1401_3000,T,DEGR,26_28     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,1
+1201_1300,T,DEGR,24_25     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,1
+1151_1200,T,DEGR,24_25     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,20_21     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,22_23     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,1
+1101_1150,F,DEGR,24_25     ,African,F,ENGLISH,Employed,GARANKUWA,Midlands,1
+0000_0000,F,DEGR,29_34     ,African,M,SISWATI,Unemployed,RANDBURG,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,1
+0001_0600,F,MATR,20_21     ,White,F,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DIPL,20_21     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1301_1400,T,DEGR,24_25     ,Indian,F,ENGLISH,Student,RANDBURG,Gauteng,1
+0000_0000,T,KWAL,24_25     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,F,DEGR,20_21     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+1101_1150,T,DEGR,24_25     ,African,M,SESOTHO,Employed,KEMPTON PARK,Gauteng,1
+1001_1050,F,DIPL,29_34     ,African,F,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,1
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,F,DEGR,20_21     ,Indian,M,ENGLISH,Employed,PIETERSBURG,North Eastern,1
+0000_0000,T,KWAL,26_28     ,African,M,ISIXHOSA,Employed,ALBERTON,Gauteng,1
+1401_3000,F,MATR,35_40     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1401_3000,T,MATR,29_34     ,African,F,ISINDEBELE,Employed,ALBERTON,Gauteng,1
+1051_1100,T,DEGR,29_34     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1101_1150,F,DEGR,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,F,NVTN,35_40     ,Coloured,M,ENGLISH,Employed,ROODEPOORT,Gauteng,1
+0000_0000,F,DIPL,29_34     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,1
+1201_1300,T,DEGR,24_25     ,African,F,ISIXHOSA,Unemployed,GERMISTON,Gauteng,1
+0000_0000,F,DIPL,20_21     ,African,F,ENGLISH,Unemployed,GERMISTON,Gauteng,1
+0000_0000,F,NVTN,35_40     ,African,M,ISIZULU,Employed,PRETORIA,Gauteng,1
+1101_1150,F,DEGR,26_28     ,African,F,ISIXHOSA,Unemployed,WONDERBOOM,Gauteng,1
+0001_0600,T,SENR,41_50     ,African,M,SISWATI,Employed,RANDBURG,Gauteng,1
+0951_1000,F,DIPL,26_28     ,African,F,ISIZULU,Unemployed,PINETOWN,KwaZulu-Natal,1
+0000_0000,F,DIPL,18_19     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,1
+0801_0850,T,DIPL,29_34     ,African,F,ISINDEBELE,Employed,PRETORIA,Gauteng,1
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,1
+1201_1300,F,DEGR,26_28     ,African,F,ISIZULU,Unemployed,ALBERTON,Gauteng,1
+0000_0000,T,DEGR,22_23     ,White,M,ENGLISH,Employed,BELLVILLE,Western Cape,1
+0000_0000,T,KWAL,35_40     ,African,F,NORTHERN SOTHO,Employed,GERMISTON,Gauteng,1
+1151_1200,T,SENR,35_40     ,African,M,ISIZULU,Employed,SOSHANGUWE,Gauteng,1
+0000_0000,F,NVTN,18_19     ,White,M,AFRIKAANS,Unemployed,RUSTENBURG,Midlands,1
+0000_0000,F,DEGR,22_23     ,African,F,ENGLISH,Employed,RANDBURG,Gauteng,1
+0001_0600,T,MATR,35_40     ,African,M,ISIXHOSA,Employed,WONDERBOOM,Gauteng,1
+1051_1100,T,DEGR,22_23     ,Coloured,F,ENGLISH,Employed,RANDBURG,Gauteng,1
+1301_1400,T,MATR,41_50     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0951_1000,F,DIPL,29_34     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,NVTN,35_40     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+0951_1000,T,DIPL,24_25     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+0601_0800,F,DEGR,29_34     ,White,M,AFRIKAANS,Unemployed,ROODEPOORT,Gauteng,1
+0001_0600,T,HCER,29_34     ,African,F,TSHIVENDA,Unemployed,PRETORIA,Gauteng,1
+0801_0850,T,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+0000_0000,F,DEGR,18_19     ,African,F,ENGLISH,Employed,BELLVILLE,Western Cape,1
+0000_0000,T,NVTN,35_40     ,African,M,ISINDEBELE,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,NVTN,29_34     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,1
+0000_0000,F,NVTN,41_50     ,African,F,SESOTHO,Employed,PRETORIA,Gauteng,1
+0000_0000,F,NVTN,41_50     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,1
+0000_0000,T,SENR,29_34     ,African,F,ISIZULU,Unemployed,BOKSBURG,Gauteng,1
+0000_0000,T,NVTN,35_40     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,1
+0000_0000,T,DIPL,20_21     ,Coloured,M,ENGLISH,Employed,BELLVILLE,Western Cape,1
+0951_1000,T,SENR,35_40     ,African,F,ISIXHOSA,Employed,PINETOWN,KwaZulu-Natal,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,T,DEGR,22_23     ,Indian,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,White,F,AFR/ENG,Employed,ROODEPOORT,Gauteng,1
+0000_0000,F,HCER,26_28     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,20_21     ,African,F,TSHIVENDA,Student,JOHANNESBURG,Gauteng,1
+1301_1400,T,DEGR,26_28     ,African,F,ISINDEBELE,Unemployed,JOHANNESBURG,Gauteng,1
+1201_1300,F,DEGR,20_21     ,African,F,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,1
+1101_1150,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,1
+0000_0000,T,DIPL,24_25     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,1
+1001_1050,F,DIPL,29_34     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,1
+1201_1300,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,1
+1101_1150,F,DEGR,20_21     ,White,F,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+1151_1200,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,1
+0601_0800,T,MATR,35_40     ,Indian,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+1401_3000,T,DEGR,24_25     ,White,M,ENGLISH,Employed,GOODWOOD,Western Cape,1
+1201_1300,F,DEGR,20_21     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,1
+1401_3000,F,DEGR,20_21     ,White,F,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+0951_1000,F,DIPL,24_25     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,1
+1201_1300,T,DEGR,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,PRETORIA,Gauteng,1
+1301_1400,T,KWAL,22_23     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,1
+1301_1400,T,MATR,29_34     ,African,F,SESOTHO,Employed,BENONI,Gauteng,1
+0001_0600,T,DIPL,26_28     ,Coloured,F,AFRIKAANS,Employed,GOODWOOD,Western Cape,1
+0000_0000,T,DEGR,22_23     ,Coloured,F,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,1
+0000_0000,T,DIPL,22_23     ,African,M,ISINDEBELE,Unemployed,SOSHANGUWE,Gauteng,1
+0001_0600,F,MATR,18_19     ,African,M,ENGLISH,Employed,Unknown,Unknown,1
+0801_0850,T,MATR,41_50     ,Coloured,M,AFRIKAANS,Employed,KUILS RIVER,Western Cape,1
+0951_1000,T,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,1
+0951_1000,F,MATR,22_23     ,African,M,ENGLISH,Unemployed,RANDBURG,Gauteng,1
+0851_0900,F,HCER,26_28     ,African,F,NORTHERN SOTHO,Unemployed,GERMISTON,Gauteng,1
+0951_1000,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,WITBANK,North Eastern,1
+0951_1000,F,DIPL,20_21     ,African,F,NORTHERN SOTHO,Unemployed,JOHANNESBURG,Gauteng,1
+0901_0950,F,DIPL,20_21     ,African,F,ISIZULU,Unemployed,ALBERTON,Gauteng,1
+1401_3000,T,DEGR,24_25     ,African,F,TSHIVENDA,Employed,KEMPTON PARK,Gauteng,1
+0951_1000,F,HCER,26_28     ,African,F,ISIZULU,Unemployed,WITBANK,North Eastern,1
+1001_1050,T,DEGR,24_25     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+1151_1200,T,DEGR,24_25     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,1
+0000_0000,F,DEGR,20_21     ,White,F,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DEGR,18_19     ,White,F,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,1
+0951_1000,F,DEGR,20_21     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,1
+1201_1300,T,DEGR,26_28     ,Coloured,F,ENGLISH,Employed,KUILS RIVER,Western Cape,1
+0000_0000,F,DEGR,18_19     ,White,F,ENGLISH,Unemployed,ALBERTON,Gauteng,1
+1051_1100,T,DEGR,24_25     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,GOODWOOD,Western Cape,1
+0001_0600,T,KWAL,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,KEMPTON PARK,Gauteng,1
+0000_0000,T,DEGR,29_34     ,African,M,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,1
+0001_0600,T,SENR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,1
+0000_0000,F,DIPL,18_19     ,African,M,XITSONGA,Unemployed,PIETERSBURG,North Eastern,0
+1151_1200,T,DEGR,26_28     ,African,M,XITSONGA,Employed,RUSTENBURG,Midlands,0
+0000_0000,T,DEGR,20_21     ,African,M,SETSWANA,Unemployed,GARANKUWA,Midlands,0
+1001_1050,T,DIPL,20_21     ,Coloured,M,ENGLISH,Employed,GOODWOOD,Western Cape,0
+0001_0600,T,KWAL,26_28     ,African,F,ENGLISH,Employed,BOKSBURG,Gauteng,0
+1201_1300,T,DEGR,22_23     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+1151_1200,T,DEGR,24_25     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+1401_3000,F,MATR,35_40     ,African,F,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1201_1300,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0601_0800,T,DEGR,29_34     ,African,M,SETSWANA,Employed,ALBERTON,Gauteng,0
+0601_0800,F,DIPL,29_34     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+1401_3000,T,MATR,29_34     ,White,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,Coloured,M,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,0
+1201_1300,F,DEGR,24_25     ,African,M,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,0
+0001_0600,F,MATR,22_23     ,African,M,ENGLISH,Student,ROODEPOORT,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0801_0850,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,0
+1101_1150,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,GERMISTON,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+1101_1150,T,DEGR,26_28     ,African,F,ISIZULU,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DIPL,29_34     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,ISIXHOSA,Employed,WITBANK,North Eastern,0
+0901_0950,T,DIPL,24_25     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+1201_1300,T,DEGR,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+1201_1300,F,DEGR,26_28     ,African,M,SETSWANA,Unemployed,RUSTENBURG,Midlands,0
+1201_1300,T,DEGR,24_25     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,0
+0000_0000,T,KWAL,29_34     ,African,F,XITSONGA,Employed,RANDBURG,Gauteng,0
+1301_1400,F,DEGR,24_25     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0000_0000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,SOSHANGUWE,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+1401_3000,T,DEGR,24_25     ,African,M,XITSONGA,Unemployed,BOKSBURG,Gauteng,0
+1401_3000,T,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,RANDBURG,Gauteng,0
+1001_1050,T,DIPL,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+0000_0000,T,HCER,26_28     ,African,F,ISINDEBELE,Unemployed,PRETORIA,Gauteng,0
+0901_0950,F,DEGR,18_19     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,0
+1001_1050,T,DIPL,26_28     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+1151_1200,T,MATR,35_40     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,F,KWAL,29_34     ,Coloured,M,AFRIKAANS,Employed,BELLVILLE,Western Cape,0
+1151_1200,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,F,TSHIVENDA,Employed,RANDBURG,Gauteng,0
+1001_1050,T,DEGR,26_28     ,African,F,ENGLISH,Employed,BOKSBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1301_1400,T,DEGR,24_25     ,White,M,AFRIKAANS,Unemployed,BELLVILLE,Western Cape,0
+1301_1400,T,DEGR,24_25     ,White,M,AFRIKAANS,Unemployed,BELLVILLE,Western Cape,0
+0601_0800,T,DEGR,29_34     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1051_1100,T,DEGR,24_25     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1001_1050,T,DEGR,29_34     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1001_1050,F,DIPL,20_21     ,White,M,AFRIKAANS,Employed,RUSTENBURG,Midlands,0
+1201_1300,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0001_0600,T,SENR,35_40     ,African,M,SESOTHO,Employed,ALBERTON,Gauteng,0
+1001_1050,T,DIPL,26_28     ,African,F,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0001_0600,T,DEGR,20_21     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,0
+1001_1050,F,DEGR,24_25     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0851_0900,F,DIPL,29_34     ,African,M,SESOTHO,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+0951_1000,F,DIPL,20_21     ,African,F,NORTHERN SOTHO,Unemployed,Unknown,Unknown,0
+0000_0000,F,HCER,24_25     ,African,F,ISIXHOSA,Unemployed,DURBAN,KwaZulu-Natal,0
+0951_1000,T,DIPL,24_25     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DEGR,20_21     ,Coloured,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,ALBERTON,Gauteng,0
+1301_1400,T,MATR,29_34     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DEGR,18_19     ,African,M,XITSONGA,Unemployed,BENONI,Gauteng,0
+1051_1100,F,MATR,35_40     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+1151_1200,T,MATR,29_34     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0951_1000,T,DEGR,26_28     ,African,M,SETSWANA,Unemployed,GARANKUWA,Midlands,0
+0801_0850,T,HCER,24_25     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+1051_1100,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+0000_0000,F,DEGR,20_21     ,White,F,ENGLISH,Unemployed,PRETORIA,Gauteng,0
+0801_0850,T,SENR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+1101_1150,T,DEGR,26_28     ,Coloured,M,AFR/ENG,Employed,RANDBURG,Gauteng,0
+0851_0900,T,DEGR,29_34     ,African,M,SESOTHO,Employed,KEMPTON PARK,Gauteng,0
+1101_1150,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1201_1300,T,DEGR,22_23     ,White,M,AFR/ENG,Unemployed,PRETORIA,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,M,ISIZULU,Employed,RANDBURG,Gauteng,0
+1101_1150,T,DEGR,24_25     ,African,F,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+1101_1150,T,DIPL,26_28     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,M,ISIXHOSA,Unemployed,DURBAN,KwaZulu-Natal,0
+1301_1400,T,DEGR,26_28     ,Indian,M,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,0
+0601_0800,T,DIPL,29_34     ,African,F,ISIZULU,Employed,WONDERBOOM,Gauteng,0
+0000_0000,T,DIPL,29_34     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,KWAL,35_40     ,African,M,SISWATI,Employed,RANDBURG,Gauteng,0
+0901_0950,F,DIPL,24_25     ,African,F,ISIXHOSA,Unemployed,KUILS RIVER,Western Cape,0
+1101_1150,F,DEGR,26_28     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+1301_1400,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+1001_1050,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+1201_1300,F,DEGR,18_19     ,African,F,ISINDEBELE,Unemployed,WITBANK,North Eastern,0
+1301_1400,T,MATR,29_34     ,Coloured,F,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,0
+1301_1400,T,DEGR,22_23     ,African,F,ISIZULU,Employed,BOKSBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,F,SETSWANA,Employed,BENONI,Gauteng,0
+1151_1200,T,DEGR,20_21     ,African,M,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,0
+0951_1000,T,SENR,35_40     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,DEGR,26_28     ,African,M,SISWATI,Employed,WITBANK,North Eastern,0
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+1001_1050,T,DIPL,20_21     ,African,F,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,0
+1151_1200,T,MATR,35_40     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+0000_0000,T,KWAL,35_40     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,HCER,26_28     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+1051_1100,T,SENR,35_40     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+1301_1400,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+0000_0000,F,DEGR,20_21     ,African,M,SETSWANA,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,24_25     ,African,M,SESOTHO,Employed,BOKSBURG,Gauteng,0
+1101_1150,T,DEGR,22_23     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+0801_0850,F,HCER,22_23     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0601_0800,F,HCER,26_28     ,African,M,ISIXHOSA,Unemployed,GOODWOOD,Western Cape,0
+1001_1050,T,DEGR,26_28     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,T,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,ALBERTON,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,0
+0000_0000,T,HCER,29_34     ,African,M,SESOTHO,Employed,SOSHANGUWE,Gauteng,0
+1201_1300,T,SENR,29_34     ,White,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0601_0800,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,F,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,T,KWAL,26_28     ,African,F,SESOTHO,Unemployed,MITCHELLS PLAIN,Western Cape,0
+1001_1050,F,DIPL,26_28     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+0001_0600,T,MATR,29_34     ,African,M,ENGLISH,Employed,KEMPTON PARK,Gauteng,0
+0951_1000,F,DIPL,22_23     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,T,SENR,29_34     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,T,DIPL,26_28     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0851_0900,T,HCER,22_23     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+0951_1000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0601_0800,F,MATR,29_34     ,African,F,ISIZULU,Unemployed,WITBANK,North Eastern,0
+0901_0950,T,DIPL,26_28     ,African,F,ENGLISH,Employed,PRETORIA,Gauteng,0
+1051_1100,T,DEGR,29_34     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1001_1050,T,DIPL,26_28     ,African,M,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,0
+1151_1200,T,DEGR,20_21     ,African,F,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0951_1000,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,0
+0601_0800,F,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,18_19     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+1001_1050,T,DIPL,26_28     ,African,F,NORTHERN SOTHO,Employed,BENONI,Gauteng,0
+0851_0900,F,HCER,20_21     ,African,F,ISIZULU,Employed,ALBERTON,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0951_1000,F,DEGR,26_28     ,African,M,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,22_23     ,African,F,ISIXHOSA,Unemployed,JOHANNESBURG,Gauteng,0
+0951_1000,F,DEGR,24_25     ,African,M,SESOTHO,Unemployed,WONDERBOOM,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+1151_1200,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,BENONI,Gauteng,0
+0851_0900,T,DIPL,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,KWAL,26_28     ,African,F,ISINDEBELE,Unemployed,RANDBURG,Gauteng,0
+0601_0800,T,DEGR,29_34     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1151_1200,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1101_1150,T,DEGR,29_34     ,African,F,SETSWANA,Employed,RUSTENBURG,Midlands,0
+0901_0950,T,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+1201_1300,F,DEGR,29_34     ,African,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+0000_0000,F,DEGR,20_21     ,African,F,XITSONGA,Unemployed,WONDERBOOM,Gauteng,0
+1401_3000,T,MATR,35_40     ,Indian,F,ENGLISH,Employed,RANDBURG,Gauteng,0
+1151_1200,F,DEGR,24_25     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0851_0900,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+0001_0600,F,KWAL,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1151_1200,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0601_0800,T,SENR,29_34     ,African,F,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+0001_0600,T,KWAL,29_34     ,African,M,ISINDEBELE,Employed,KEMPTON PARK,Gauteng,0
+0851_0900,F,DIPL,22_23     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1001_1050,T,DIPL,26_28     ,African,M,ISIZULU,Employed,BENONI,Gauteng,0
+1051_1100,T,DIPL,20_21     ,African,M,TSHIVENDA,Employed,ALBERTON,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1201_1300,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+1151_1200,T,DEGR,22_23     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+1151_1200,T,DEGR,26_28     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1301_1400,T,MATR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0951_1000,T,SENR,29_34     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,T,KWAL,26_28     ,African,F,SISWATI,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,F,DEGR,18_19     ,African,M,TSHIVENDA,Unemployed,PRETORIA,Gauteng,0
+1401_3000,T,DEGR,20_21     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1151_1200,T,DEGR,29_34     ,African,M,XITSONGA,Student,PRETORIA,Gauteng,0
+0851_0900,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0951_1000,T,DIPL,24_25     ,African,M,TSHIVENDA,Employed,RANDBURG,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+1001_1050,F,DIPL,20_21     ,Coloured,M,AFR/ENG,Employed,GERMISTON,Gauteng,0
+1151_1200,T,DEGR,24_25     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+0901_0950,T,SENR,35_40     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+0000_0000,T,HCER,24_25     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+1101_1150,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,BENONI,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,SISWATI,Employed,JOHANNESBURG,Gauteng,0
+0951_1000,F,SENR,35_40     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1301_1400,T,DEGR,24_25     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+0000_0000,T,DEGR,29_34     ,African,F,SESOTHO,Employed,KUILS RIVER,Western Cape,0
+1101_1150,F,DEGR,20_21     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1101_1150,T,DEGR,22_23     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+1051_1100,T,DEGR,24_25     ,Coloured,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+1051_1100,T,DEGR,26_28     ,African,M,SETSWANA,Employed,KEMPTON PARK,Gauteng,0
+0951_1000,T,DIPL,26_28     ,African,M,SESOTHO,Unemployed,WITBANK,North Eastern,0
+1101_1150,F,DEGR,20_21     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+0951_1000,T,DEGR,20_21     ,African,F,ISIZULU,Employed,RANDBURG,Gauteng,0
+1001_1050,F,SENR,29_34     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,KWAL,24_25     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,T,DEGR,26_28     ,African,M,ISIXHOSA,Unemployed,RUSTENBURG,Midlands,0
+1151_1200,T,DEGR,24_25     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0951_1000,F,DIPL,26_28     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,KWAL,24_25     ,African,M,SESOTHO,Employed,BOKSBURG,Gauteng,0
+1151_1200,F,DEGR,20_21     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1101_1150,T,DEGR,29_34     ,Coloured,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+1151_1200,T,DEGR,24_25     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,0
+1401_3000,T,MATR,29_34     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0951_1000,F,DIPL,29_34     ,African,M,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+0951_1000,T,SENR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,T,DIPL,26_28     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+1301_1400,T,DEGR,26_28     ,African,F,ISIZULU,Employed,ALBERTON,Gauteng,0
+0001_0600,F,SENR,35_40     ,African,F,ISIZULU,Employed,BOKSBURG,Gauteng,0
+1301_1400,T,DEGR,29_34     ,African,F,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,F,ISIZULU,Employed,RANDBURG,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,SISWATI,Unemployed,JOHANNESBURG,Gauteng,0
+0901_0950,T,DIPL,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+1101_1150,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,F,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0801_0850,F,HCER,26_28     ,African,F,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,0
+1201_1300,F,DEGR,20_21     ,White,F,ENGLISH,Employed,GOODWOOD,Western Cape,0
+1051_1100,T,MATR,35_40     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,0
+1201_1300,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Employed,BENONI,Gauteng,0
+0951_1000,T,DIPL,26_28     ,African,M,SETSWANA,Unemployed,RUSTENBURG,Midlands,0
+0000_0000,F,DEGR,18_19     ,African,M,NORTHERN SOTHO,Employed,GERMISTON,Gauteng,0
+0000_0000,T,KWAL,41_50     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DEGR,20_21     ,African,M,SESOTHO,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,KWAL,29_34     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DIPL,26_28     ,African,F,ISIZULU,Employed,SOSHANGUWE,Gauteng,0
+1001_1050,T,DEGR,24_25     ,African,M,ENGLISH,Unemployed,RANDBURG,Gauteng,0
+1051_1100,T,DEGR,22_23     ,African,F,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,KWAL,35_40     ,African,M,TSHIVENDA,Employed,WONDERBOOM,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,SESOTHO,Employed,GOODWOOD,Western Cape,0
+1201_1300,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0901_0950,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+0000_0000,F,DEGR,18_19     ,Coloured,M,ENGLISH,Unemployed,BOKSBURG,Gauteng,0
+1051_1100,F,DEGR,20_21     ,Indian,M,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1401_3000,T,DEGR,24_25     ,African,F,SESOTHO,Employed,ROODEPOORT,Gauteng,0
+1201_1300,F,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+0901_0950,T,DIPL,24_25     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+1101_1150,T,DEGR,20_21     ,Coloured,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1301_1400,T,MATR,35_40     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,GERMISTON,Gauteng,0
+0951_1000,F,MATR,41_50     ,African,F,XITSONGA,Employed,SOSHANGUWE,Gauteng,0
+1151_1200,T,DEGR,24_25     ,African,F,TSHIVENDA,Unemployed,PRETORIA,Gauteng,0
+0951_1000,F,MATR,35_40     ,African,M,SETSWANA,Unemployed,KEMPTON PARK,Gauteng,0
+0901_0950,T,DIPL,26_28     ,African,M,ISIZULU,Employed,RANDBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+0951_1000,F,DIPL,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+0000_0000,T,KWAL,41_50     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0000_0000,F,DIPL,26_28     ,African,M,TSHIVENDA,Unemployed,GERMISTON,Gauteng,0
+1401_3000,F,DEGR,22_23     ,White,F,ENGLISH,Employed,BOKSBURG,Gauteng,0
+1101_1150,F,MATR,35_40     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+1301_1400,F,MATR,29_34     ,African,M,XITSONGA,Employed,WONDERBOOM,Gauteng,0
+1001_1050,T,DIPL,29_34     ,African,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0000_0000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1001_1050,F,MATR,35_40     ,African,F,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+1401_3000,F,MATR,29_34     ,African,M,TSHIVENDA,Employed,ROODEPOORT,Gauteng,0
+1001_1050,F,MATR,35_40     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+1051_1100,T,DEGR,26_28     ,White,M,AFRIKAANS,Employed,KUILS RIVER,Western Cape,0
+1201_1300,F,MATR,29_34     ,African,F,SETSWANA,Employed,WONDERBOOM,Gauteng,0
+0801_0850,F,HCER,24_25     ,African,F,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,0
+1151_1200,T,MATR,29_34     ,African,M,ISIXHOSA,Employed,KUILS RIVER,Western Cape,0
+0951_1000,T,DIPL,24_25     ,African,F,ISIZULU,Unemployed,ALBERTON,Gauteng,0
+0851_0900,F,MATR,29_34     ,African,M,ISIZULU,Student,DURBAN,KwaZulu-Natal,0
+1201_1300,T,DEGR,22_23     ,African,F,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+0901_0950,F,DEGR,20_21     ,African,M,NORTHERN SOTHO,Unemployed,GERMISTON,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1201_1300,F,SENR,29_34     ,African,F,ISIZULU,Unemployed,PRETORIA,Gauteng,0
+0951_1000,F,MATR,35_40     ,African,M,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0951_1000,F,SENR,35_40     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+1301_1400,T,DEGR,24_25     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,F,XITSONGA,Unemployed,SOSHANGUWE,Gauteng,0
+1201_1300,T,MATR,35_40     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1301_1400,T,DEGR,24_25     ,African,F,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,MATR,41_50     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,0
+1051_1100,F,DEGR,29_34     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,0
+1051_1100,F,MATR,35_40     ,African,F,SESOTHO,Employed,RANDBURG,Gauteng,0
+0901_0950,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,T,SENR,35_40     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1001_1050,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,WITBANK,North Eastern,0
+1101_1150,T,DEGR,24_25     ,Coloured,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+1401_3000,T,MATR,35_40     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,M,XITSONGA,Employed,BENONI,Gauteng,0
+1001_1050,F,DEGR,18_19     ,African,F,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0951_1000,T,MATR,29_34     ,African,M,ISIZULU,Student,JOHANNESBURG,Gauteng,0
+1401_3000,F,DEGR,24_25     ,African,F,SETSWANA,Employed,RUSTENBURG,Midlands,0
+1001_1050,F,DEGR,20_21     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+1101_1150,T,DEGR,24_25     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1401_3000,T,MATR,35_40     ,White,F,AFR/ENG,Employed,PRETORIA,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+0901_0950,F,DIPL,24_25     ,African,F,SETSWANA,Unemployed,RUSTENBURG,Midlands,0
+0000_0000,F,DEGR,18_19     ,Indian,F,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+1301_1400,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,XITSONGA,Unemployed,BOKSBURG,Gauteng,0
+0801_0850,T,DIPL,24_25     ,African,M,SESOTHO,Employed,WONDERBOOM,Gauteng,0
+1151_1200,T,MATR,29_34     ,African,M,ISIZULU,Employed,BENONI,Gauteng,0
+0801_0850,F,DIPL,26_28     ,African,F,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+0000_0000,F,DEGR,18_19     ,White,M,ENGLISH,Unemployed,GERMISTON,Gauteng,0
+0000_0000,F,DIPL,24_25     ,African,M,SETSWANA,Unemployed,SOSHANGUWE,Gauteng,0
+0951_1000,F,SENR,35_40     ,African,F,SESOTHO,Unemployed,Unknown,Unknown,0
+0801_0850,F,HCER,24_25     ,African,M,SESOTHO,Employed,SOSHANGUWE,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+0801_0850,F,SENR,35_40     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+1051_1100,T,DIPL,29_34     ,African,M,SESOTHO,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,29_34     ,White,M,AFRIKAANS,Employed,BELLVILLE,Western Cape,0
+0000_0000,T,DEGR,26_28     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DEGR,22_23     ,African,F,SISWATI,Student,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,0
+1051_1100,T,DEGR,29_34     ,African,M,ISINDEBELE,Employed,WITBANK,North Eastern,0
+0851_0900,F,SENR,41_50     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,24_25     ,African,F,ISIXHOSA,Unemployed,KUILS RIVER,Western Cape,0
+1201_1300,F,DEGR,26_28     ,African,M,SESOTHO,Employed,MITCHELLS PLAIN,Western Cape,0
+0001_0600,T,MATR,41_50     ,African,M,ISINDEBELE,Employed,RANDBURG,Gauteng,0
+1301_1400,T,DEGR,20_21     ,White,F,AFR/ENG,Unemployed,PRETORIA,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,M,ENGLISH,Unemployed,BENONI,Gauteng,0
+0000_0000,T,DEGR,22_23     ,African,F,SISWATI,Employed,BOKSBURG,Gauteng,0
+0000_0000,T,KWAL,35_40     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+1001_1050,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+1101_1150,T,DEGR,24_25     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+0851_0900,F,DIPL,29_34     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1101_1150,F,DEGR,18_19     ,African,M,SESOTHO,Employed,WONDERBOOM,Gauteng,0
+1001_1050,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+1001_1050,T,DIPL,22_23     ,African,F,ENGLISH,Student,ALBERTON,Gauteng,0
+1051_1100,T,DEGR,26_28     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,T,DEGR,20_21     ,Indian,F,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,0
+1051_1100,F,DEGR,20_21     ,African,F,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+1051_1100,T,DEGR,24_25     ,African,M,SISWATI,Employed,RUSTENBURG,Midlands,0
+0951_1000,F,DEGR,18_19     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,26_28     ,White,M,AFR/ENG,Employed,GOODWOOD,Western Cape,0
+0851_0900,T,DEGR,29_34     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,22_23     ,African,F,ISIZULU,Unemployed,ROODEPOORT,Gauteng,0
+0601_0800,F,SENR,35_40     ,African,M,ISIXHOSA,Unemployed,UMLAZI,KwaZulu-Natal,0
+0601_0800,F,DIPL,22_23     ,African,M,ISIXHOSA,Unemployed,GERMISTON,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,F,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+1201_1300,F,SENR,35_40     ,African,F,SESOTHO,Unemployed,RUSTENBURG,Midlands,0
+0601_0800,F,DEGR,22_23     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+0851_0900,F,SENR,35_40     ,African,M,ISIXHOSA,Employed,KUILS RIVER,Western Cape,0
+1301_1400,T,DEGR,24_25     ,African,M,ISIZULU,Employed,RANDBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+0000_0000,F,DIPL,29_34     ,African,M,SESOTHO,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,DIPL,24_25     ,African,M,SESOTHO,Employed,BOKSBURG,Gauteng,0
+1201_1300,F,DEGR,20_21     ,Indian,M,ENGLISH,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,22_23     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0901_0950,T,DIPL,26_28     ,African,F,ISIZULU,Employed,GERMISTON,Gauteng,0
+0000_0000,T,KWAL,24_25     ,African,F,SISWATI,Employed,Unknown,Unknown,0
+0000_0000,F,KWAL,41_50     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+1301_1400,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1151_1200,T,SENR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,0
+1151_1200,T,DEGR,26_28     ,African,M,ISIZULU,Employed,GOODWOOD,Western Cape,0
+0000_0000,F,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+1051_1100,T,DEGR,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+0000_0000,T,KWAL,29_34     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,KWAL,26_28     ,African,M,ENGLISH,Employed,BOKSBURG,Gauteng,0
+0901_0950,T,DIPL,26_28     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+0000_0000,F,DIPL,29_34     ,African,F,XITSONGA,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,F,KWAL,29_34     ,African,M,SETSWANA,Employed,KUILS RIVER,Western Cape,0
+1401_3000,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DIPL,24_25     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1301_1400,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,BELLVILLE,Western Cape,0
+0000_0000,F,DEGR,22_23     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,F,SETSWANA,Employed,WONDERBOOM,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+0000_0000,T,KWAL,29_34     ,Coloured,M,ENGLISH,Employed,KUILS RIVER,Western Cape,0
+0000_0000,T,DEGR,22_23     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+1301_1400,T,DEGR,24_25     ,White,M,AFR/ENG,Employed,BELLVILLE,Western Cape,0
+1301_1400,T,DEGR,22_23     ,White,M,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,F,DEGR,20_21     ,African,M,SESOTHO,Employed,WONDERBOOM,Gauteng,0
+0000_0000,F,DIPL,18_19     ,African,M,ISIZULU,Unemployed,ALBERTON,Gauteng,0
+1401_3000,F,MATR,41_50     ,White,F,AFR/ENG,Employed,PRETORIA,Gauteng,0
+0801_0850,T,DIPL,22_23     ,African,F,ISIXHOSA,Employed,DURBAN,KwaZulu-Natal,0
+0951_1000,F,DIPL,29_34     ,African,F,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+0801_0850,T,MATR,41_50     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0000_0000,T,KWAL,22_23     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+0851_0900,F,DIPL,29_34     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+0000_0000,T,KWAL,26_28     ,African,F,ISIXHOSA,Unemployed,RUSTENBURG,Midlands,0
+1201_1300,T,DEGR,26_28     ,African,M,ENGLISH,Employed,BOKSBURG,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,F,SISWATI,Employed,WITBANK,North Eastern,0
+1151_1200,T,DEGR,24_25     ,African,M,SISWATI,Employed,PRETORIA,Gauteng,0
+0951_1000,F,DIPL,29_34     ,African,F,ISIZULU,Employed,BENONI,Gauteng,0
+0000_0000,T,KWAL,22_23     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1101_1150,F,SENR,35_40     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0601_0800,F,SENR,35_40     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1201_1300,F,DEGR,29_34     ,African,M,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+1101_1150,T,DEGR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1101_1150,F,DEGR,24_25     ,African,F,SESOTHO,Unemployed,GARANKUWA,Midlands,0
+0951_1000,T,MATR,29_34     ,African,M,SESOTHO,Employed,BOKSBURG,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1051_1100,T,DEGR,26_28     ,African,M,XITSONGA,Employed,RUSTENBURG,Midlands,0
+0000_0000,T,DEGR,20_21     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1201_1300,T,DEGR,22_23     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+0951_1000,F,DIPL,24_25     ,African,F,ISIXHOSA,Unemployed,DURBAN,KwaZulu-Natal,0
+0901_0950,T,SENR,35_40     ,African,F,SETSWANA,Unemployed,PRETORIA,Gauteng,0
+1301_1400,T,MATR,29_34     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,0
+0901_0950,F,DEGR,29_34     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1101_1150,T,DEGR,24_25     ,African,F,XITSONGA,Employed,ROODEPOORT,Gauteng,0
+1301_1400,T,DEGR,22_23     ,African,M,TSHIVENDA,Employed,RANDBURG,Gauteng,0
+0000_0000,F,DIPL,20_21     ,African,F,NORTHERN SOTHO,Employed,RUSTENBURG,Midlands,0
+1201_1300,T,MATR,41_50     ,Indian,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,0
+1201_1300,F,DEGR,24_25     ,African,F,ENGLISH,Unemployed,BOKSBURG,Gauteng,0
+1001_1050,T,DEGR,26_28     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,F,KWAL,41_50     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1151_1200,T,SENR,29_34     ,African,M,ISIZULU,Employed,WITBANK,North Eastern,0
+1001_1050,T,MATR,29_34     ,African,M,SETSWANA,Employed,ROODEPOORT,Gauteng,0
+1201_1300,T,DEGR,24_25     ,White,F,AFRIKAANS,Employed,PRETORIA,Gauteng,0
+1001_1050,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+1201_1300,T,SENR,29_34     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,DEGR,35_40     ,African,M,NORTHERN SOTHO,Unemployed,GARANKUWA,Midlands,0
+0000_0000,T,DEGR,26_28     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,0
+1151_1200,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1401_3000,F,KWAL,35_40     ,Indian,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+0000_0000,T,KWAL,41_50     ,African,M,SESOTHO,Employed,BOKSBURG,Gauteng,0
+0000_0000,F,DEGR,26_28     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+0001_0600,T,KWAL,35_40     ,Coloured,M,AFRIKAANS,Employed,Unknown,Unknown,0
+1101_1150,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,JOHANNESBURG,Gauteng,0
+1401_3000,T,MATR,29_34     ,African,M,SESOTHO,Employed,PIETERSBURG,North Eastern,0
+0000_0000,T,MATR,18_19     ,White,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0851_0900,F,SENR,29_34     ,African,M,ISIXHOSA,Unemployed,GARANKUWA,Midlands,0
+1101_1150,F,DEGR,26_28     ,African,M,ISIZULU,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,F,ISIXHOSA,Unemployed,JOHANNESBURG,Gauteng,0
+1401_3000,F,MATR,35_40     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,T,MATR,35_40     ,African,F,SETSWANA,Employed,PRETORIA,Gauteng,0
+0601_0800,T,MATR,29_34     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,T,KWAL,26_28     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+0001_0600,T,SENR,29_34     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,M,XITSONGA,Unemployed,ROODEPOORT,Gauteng,0
+1401_3000,T,MATR,29_34     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0000_0000,T,DIPL,26_28     ,Coloured,M,AFRIKAANS,Employed,PINETOWN,KwaZulu-Natal,0
+1401_3000,T,DEGR,26_28     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1401_3000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0851_0900,T,SENR,29_34     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0951_1000,T,DIPL,29_34     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+0000_0000,T,DEGR,29_34     ,African,M,XITSONGA,Employed,BOKSBURG,Gauteng,0
+0901_0950,T,SENR,29_34     ,African,F,ISIXHOSA,Unemployed,PRETORIA,Gauteng,0
+1301_1400,F,DEGR,22_23     ,African,F,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,0
+1201_1300,F,DEGR,29_34     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1101_1150,F,DEGR,29_34     ,African,M,ISIZULU,Employed,WITBANK,North Eastern,0
+1101_1150,F,DEGR,26_28     ,African,M,SESOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,SISWATI,Employed,GERMISTON,Gauteng,0
+0901_0950,F,DIPL,20_21     ,African,M,SETSWANA,Unemployed,WONDERBOOM,Gauteng,0
+1151_1200,T,SENR,29_34     ,African,M,ISIXHOSA,Employed,WITBANK,North Eastern,0
+1051_1100,F,DEGR,26_28     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0951_1000,F,DIPL,26_28     ,African,F,SETSWANA,Employed,RUSTENBURG,Midlands,0
+1201_1300,T,MATR,29_34     ,African,F,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0951_1000,F,SENR,29_34     ,African,M,ISIZULU,Unemployed,PINETOWN,KwaZulu-Natal,0
+0000_0000,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+0000_0000,T,DEGR,24_25     ,Indian,M,ENGLISH,Unemployed,BENONI,Gauteng,0
+0000_0000,F,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1151_1200,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+0000_0000,T,KWAL,24_25     ,African,F,ENGLISH,Employed,GERMISTON,Gauteng,0
+0601_0800,F,DIPL,29_34     ,African,M,SESOTHO,Employed,ROODEPOORT,Gauteng,0
+0601_0800,F,MATR,29_34     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DEGR,18_19     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+1051_1100,T,MATR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,GERMISTON,Gauteng,0
+0801_0850,T,DIPL,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+0951_1000,T,KWAL,29_34     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1151_1200,F,DEGR,26_28     ,African,M,TSHIVENDA,Student,SOSHANGUWE,Gauteng,0
+0000_0000,F,KWAL,29_34     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+1001_1050,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1101_1150,T,DEGR,24_25     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+1151_1200,F,DEGR,29_34     ,African,M,XITSONGA,Unemployed,BOKSBURG,Gauteng,0
+0000_0000,F,DEGR,20_21     ,White,M,AFR/ENG,Unemployed,ROODEPOORT,Gauteng,0
+0801_0850,F,SENR,29_34     ,African,M,ISIXHOSA,Employed,KUILS RIVER,Western Cape,0
+1401_3000,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+0000_0000,F,DEGR,29_34     ,African,F,SETSWANA,Unemployed,KEMPTON PARK,Gauteng,0
+0851_0900,T,SENR,29_34     ,African,M,XITSONGA,Employed,ROODEPOORT,Gauteng,0
+0000_0000,F,DIPL,26_28     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+0000_0000,T,KWAL,35_40     ,African,M,ISIZULU,Employed,ROODEPOORT,Gauteng,0
+0901_0950,F,DIPL,26_28     ,African,F,ISIXHOSA,Unemployed,JOHANNESBURG,Gauteng,0
+1001_1050,T,DEGR,22_23     ,African,M,ENGLISH,Unemployed,BOKSBURG,Gauteng,0
+1201_1300,T,DEGR,24_25     ,African,M,ISIZULU,Employed,SOSHANGUWE,Gauteng,0
+1151_1200,F,DEGR,24_25     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,0
+1051_1100,F,DEGR,29_34     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,0
+0851_0900,F,DIPL,24_25     ,African,F,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,F,DIPL,26_28     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,AFRIKAANS,Employed,Unknown,Unknown,0
+0000_0000,F,DIPL,24_25     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+1301_1400,F,MATR,35_40     ,White,F,ENGLISH,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DEGR,20_21     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+1301_1400,T,DEGR,24_25     ,White,F,AFR/ENG,Employed,ROODEPOORT,Gauteng,0
+1301_1400,T,DEGR,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+1201_1300,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1101_1150,F,MATR,35_40     ,African,M,TSHIVENDA,Employed,WONDERBOOM,Gauteng,0
+1151_1200,T,DEGR,29_34     ,African,F,SETSWANA,Employed,RUSTENBURG,Midlands,0
+0601_0800,F,KWAL,29_34     ,African,M,ISIXHOSA,Employed,WITBANK,North Eastern,0
+1151_1200,T,DEGR,22_23     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0951_1000,F,DIPL,24_25     ,African,M,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,DIPL,26_28     ,African,F,ISIZULU,Unemployed,ALBERTON,Gauteng,0
+1401_3000,F,DEGR,24_25     ,White,M,AFRIKAANS,Employed,KUILS RIVER,Western Cape,0
+0801_0850,F,HCER,26_28     ,African,M,SETSWANA,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,ISIXHOSA,Unemployed,ALBERTON,Gauteng,0
+0000_0000,F,DEGR,18_19     ,Indian,M,ENGLISH,Student,JOHANNESBURG,Gauteng,0
+0951_1000,T,DEGR,18_19     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,T,KWAL,26_28     ,Indian,M,ENGLISH,Employed,BENONI,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,SETSWANA,Employed,RUSTENBURG,Midlands,0
+1201_1300,T,MATR,35_40     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1301_1400,T,DEGR,24_25     ,African,F,XITSONGA,Employed,PRETORIA,Gauteng,0
+1401_3000,T,MATR,29_34     ,African,F,ISIXHOSA,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0000_0000,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,BENONI,Gauteng,0
+1101_1150,T,SENR,35_40     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0001_0600,T,KWAL,41_50     ,African,M,SISWATI,Employed,Unknown,Unknown,0
+1151_1200,T,DEGR,26_28     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,F,DEGR,29_34     ,African,F,SESOTHO,Unemployed,PRETORIA,Gauteng,0
+0601_0800,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0000_0000,T,KWAL,41_50     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+0000_0000,T,KWAL,35_40     ,African,M,SISWATI,Employed,Unknown,Unknown,0
+0901_0950,T,SENR,41_50     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1001_1050,T,DEGR,26_28     ,African,M,SISWATI,Employed,ROODEPOORT,Gauteng,0
+1001_1050,T,DEGR,26_28     ,African,M,SESOTHO,Employed,KEMPTON PARK,Gauteng,0
+1151_1200,T,KWAL,26_28     ,African,M,ISIZULU,Employed,BENONI,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0000_0000,T,DEGR,29_34     ,African,M,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+1001_1050,F,DIPL,24_25     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,F,ENGLISH,Employed,RANDBURG,Gauteng,0
+0601_0800,T,DIPL,29_34     ,African,M,ISIXHOSA,Employed,KUILS RIVER,Western Cape,0
+1051_1100,F,DIPL,22_23     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,0
+1401_3000,T,MATR,29_34     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,F,ISIZULU,Employed,PINETOWN,KwaZulu-Natal,0
+0601_0800,T,SENR,29_34     ,African,F,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+0901_0950,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+0000_0000,T,DEGR,24_25     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0801_0850,T,SENR,29_34     ,African,F,NORTHERN SOTHO,Employed,THOHOYANDOU,North Eastern,0
+1201_1300,F,DEGR,24_25     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1001_1050,T,DEGR,26_28     ,African,F,TSHIVENDA,Employed,RANDBURG,Gauteng,0
+1401_3000,T,MATR,29_34     ,African,M,SETSWANA,Unemployed,GARANKUWA,Midlands,0
+1301_1400,F,DEGR,22_23     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,T,MATR,41_50     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+1401_3000,T,DEGR,26_28     ,African,M,ISIZULU,Employed,ALBERTON,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+0001_0600,F,DEGR,26_28     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+0000_0000,T,DEGR,29_34     ,African,M,ISIZULU,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,M,SESOTHO,Employed,GERMISTON,Gauteng,0
+0000_0000,T,KWAL,35_40     ,African,M,ISIZULU,Employed,RANDBURG,Gauteng,0
+0951_1000,F,DIPL,24_25     ,Coloured,M,ENGLISH,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+1001_1050,F,MATR,29_34     ,African,M,ISIXHOSA,Unemployed,PINETOWN,KwaZulu-Natal,0
+0000_0000,F,KWAL,35_40     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+0901_0950,F,SENR,41_50     ,White,M,ENGLISH,Employed,GOODWOOD,Western Cape,0
+1201_1300,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0801_0850,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,SISWATI,Employed,WONDERBOOM,Gauteng,0
+1001_1050,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0951_1000,T,DIPL,26_28     ,African,F,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1301_1400,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0951_1000,F,DEGR,22_23     ,Indian,M,ENGLISH,Employed,KEMPTON PARK,Gauteng,0
+1151_1200,F,DEGR,29_34     ,African,F,ISIZULU,Employed,WITBANK,North Eastern,0
+1151_1200,T,DEGR,24_25     ,African,F,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+1201_1300,F,DEGR,20_21     ,Indian,M,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0601_0800,T,SENR,35_40     ,African,F,ISIZULU,Employed,BOKSBURG,Gauteng,0
+1051_1100,T,DEGR,26_28     ,African,F,XITSONGA,Employed,SOSHANGUWE,Gauteng,0
+1201_1300,F,MATR,35_40     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,24_25     ,African,M,SISWATI,Employed,RUSTENBURG,Midlands,0
+1201_1300,F,DEGR,24_25     ,African,M,ISIXHOSA,Unemployed,KUILS RIVER,Western Cape,0
+1101_1150,F,DEGR,29_34     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0601_0800,T,DEGR,29_34     ,White,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1151_1200,T,DEGR,29_34     ,African,M,TSHIVENDA,Employed,RANDBURG,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+1151_1200,F,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+1201_1300,F,MATR,29_34     ,White,M,ENGLISH,Employed,Unknown,Unknown,0
+1301_1400,F,DEGR,26_28     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DIPL,24_25     ,African,F,TSHIVENDA,Student,JOHANNESBURG,Gauteng,0
+1301_1400,T,DEGR,22_23     ,Coloured,F,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0601_0800,F,SENR,35_40     ,African,F,ISIZULU,Employed,WITBANK,North Eastern,0
+1151_1200,F,DEGR,26_28     ,African,F,ISIZULU,Employed,ALBERTON,Gauteng,0
+1151_1200,T,DIPL,26_28     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1051_1100,F,DEGR,24_25     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+0000_0000,T,DEGR,26_28     ,African,M,XITSONGA,Unemployed,ALBERTON,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,ENGLISH,Employed,WITBANK,North Eastern,0
+0000_0000,F,DIPL,24_25     ,African,M,XITSONGA,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1301_1400,T,MATR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,26_28     ,African,F,ENGLISH,Employed,BOKSBURG,Gauteng,0
+0901_0950,T,DEGR,24_25     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,ISIXHOSA,Employed,ALBERTON,Gauteng,0
+1201_1300,T,DEGR,29_34     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,0
+1151_1200,T,DEGR,24_25     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+1301_1400,T,DEGR,26_28     ,African,F,XITSONGA,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,M,SESOTHO,Employed,Unknown,Unknown,0
+0851_0900,T,SENR,29_34     ,African,M,ENGLISH,Employed,GOODWOOD,Western Cape,0
+0000_0000,F,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0000_0000,F,DIPL,29_34     ,African,M,ISIXHOSA,Employed,RUSTENBURG,Midlands,0
+0000_0000,F,DEGR,26_28     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0801_0850,T,SENR,41_50     ,African,F,ENGLISH,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+1001_1050,T,DEGR,24_25     ,African,M,ISIZULU,Employed,WITBANK,North Eastern,0
+1401_3000,F,DEGR,20_21     ,Indian,M,ENGLISH,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1051_1100,T,DEGR,24_25     ,African,F,ISIZULU,Employed,RANDBURG,Gauteng,0
+0001_0600,F,DIPL,26_28     ,African,F,ISIZULU,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,F,ENGLISH,Employed,BELLVILLE,Western Cape,0
+1201_1300,T,DEGR,24_25     ,White,M,AFR/ENG,Employed,KEMPTON PARK,Gauteng,0
+1001_1050,F,DIPL,24_25     ,African,F,SETSWANA,Unemployed,RUSTENBURG,Midlands,0
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Unemployed,WITBANK,North Eastern,0
+1051_1100,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DIPL,24_25     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+1051_1100,T,MATR,29_34     ,African,F,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+1201_1300,F,MATR,35_40     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1201_1300,T,DEGR,29_34     ,African,M,ISINDEBELE,Employed,SOSHANGUWE,Gauteng,0
+1151_1200,F,DEGR,26_28     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,0
+0801_0850,F,DIPL,26_28     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+1301_1400,T,DEGR,29_34     ,White,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1401_3000,F,MATR,29_34     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,DEGR,24_25     ,African,M,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1001_1050,T,DEGR,22_23     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0001_0600,T,KWAL,35_40     ,African,F,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,DEGR,26_28     ,African,F,XITSONGA,Employed,ROODEPOORT,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,M,XITSONGA,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,ISIZULU,Unemployed,GARANKUWA,Midlands,0
+0000_0000,F,DIPL,29_34     ,African,F,SETSWANA,Employed,PRETORIA,Gauteng,0
+0000_0000,F,HCER,24_25     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,F,DEGR,29_34     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0851_0900,F,DIPL,26_28     ,African,M,ISIZULU,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,KWAL,24_25     ,White,M,AFRIKAANS,Employed,Unknown,Unknown,0
+0851_0900,F,SENR,29_34     ,African,M,SETSWANA,Employed,SOSHANGUWE,Gauteng,0
+1401_3000,T,DEGR,24_25     ,White,F,AFRIKAANS,Employed,WONDERBOOM,Gauteng,0
+1051_1100,T,MATR,29_34     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,F,DIPL,22_23     ,African,F,ISIXHOSA,Student,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DIPL,29_34     ,African,M,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+1101_1150,F,DEGR,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DIPL,20_21     ,African,M,ENGLISH,Employed,WITBANK,North Eastern,0
+0951_1000,T,MATR,29_34     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+1051_1100,T,MATR,35_40     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0000_0000,T,DEGR,29_34     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+1101_1150,T,MATR,29_34     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+1201_1300,T,MATR,29_34     ,African,M,XITSONGA,Employed,ROODEPOORT,Gauteng,0
+0000_0000,F,HCER,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,HCER,29_34     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+1001_1050,T,DIPL,26_28     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DEGR,22_23     ,African,M,XITSONGA,Unemployed,KEMPTON PARK,Gauteng,0
+1201_1300,T,DEGR,22_23     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+1201_1300,T,DEGR,26_28     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+0851_0900,F,DIPL,22_23     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+1101_1150,T,DEGR,26_28     ,African,M,ISIZULU,Employed,WITBANK,North Eastern,0
+0000_0000,T,HCER,29_34     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,M,SESOTHO,Employed,SOSHANGUWE,Gauteng,0
+1051_1100,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,0
+1001_1050,F,DEGR,26_28     ,African,M,SETSWANA,Employed,GOODWOOD,Western Cape,0
+1151_1200,F,DEGR,22_23     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+1101_1150,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0901_0950,T,DIPL,22_23     ,African,M,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,0
+0601_0800,T,SENR,35_40     ,African,F,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+1001_1050,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,DEGR,24_25     ,African,F,SESOTHO,Unemployed,PIETERSBURG,North Eastern,0
+0000_0000,T,DIPL,26_28     ,African,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,0
+1301_1400,F,DEGR,26_28     ,African,M,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,F,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0951_1000,F,DIPL,29_34     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+1101_1150,T,MATR,29_34     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,0
+1301_1400,F,DEGR,20_21     ,White,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,F,ISIZULU,Unemployed,UMLAZI,KwaZulu-Natal,0
+0000_0000,F,DIPL,29_34     ,African,F,SESOTHO,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,F,KWAL,41_50     ,Coloured,F,ENGLISH,Employed,Unknown,Unknown,0
+0601_0800,T,DIPL,29_34     ,Coloured,M,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,DEGR,24_25     ,African,M,XITSONGA,Unemployed,RANDBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,ISIXHOSA,Employed,BELLVILLE,Western Cape,0
+1151_1200,F,DEGR,22_23     ,African,M,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+1001_1050,T,SENR,29_34     ,African,F,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,SISWATI,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,KWAL,35_40     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1101_1150,F,DEGR,24_25     ,African,F,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+1051_1100,T,DIPL,22_23     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DIPL,22_23     ,African,M,XITSONGA,Unemployed,GERMISTON,Gauteng,0
+0000_0000,T,DIPL,29_34     ,African,F,SETSWANA,Employed,ROODEPOORT,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+0001_0600,F,SENR,35_40     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,F,NVTN,35_40     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+1101_1150,F,DEGR,24_25     ,Coloured,F,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,0
+0601_0800,T,DEGR,29_34     ,White,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0001_0600,T,DEGR,24_25     ,African,M,ISIXHOSA,Unemployed,ALBERTON,Gauteng,0
+1201_1300,F,DEGR,22_23     ,White,F,ENGLISH,Employed,GOODWOOD,Western Cape,0
+0000_0000,T,HCER,26_28     ,African,F,XITSONGA,Employed,WONDERBOOM,Gauteng,0
+0000_0000,F,MATR,41_50     ,White,M,AFR/ENG,Employed,PRETORIA,Gauteng,0
+1301_1400,T,DEGR,24_25     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+0851_0900,T,MATR,35_40     ,African,M,SISWATI,Employed,WITBANK,North Eastern,0
+1101_1150,T,DEGR,22_23     ,African,M,ISIZULU,Employed,ROODEPOORT,Gauteng,0
+1201_1300,T,DEGR,29_34     ,African,F,XITSONGA,Employed,BOKSBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,Coloured,M,ENGLISH,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,NVTN,35_40     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,F,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+1301_1400,F,DEGR,26_28     ,Indian,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1151_1200,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,20_21     ,African,M,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+0601_0800,T,DEGR,29_34     ,African,M,SETSWANA,Employed,RANDBURG,Gauteng,0
+1051_1100,T,MATR,35_40     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,NVTN,24_25     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,NVTN,26_28     ,African,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+1151_1200,T,DEGR,22_23     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+0000_0000,T,NVTN,18_19     ,African,F,XITSONGA,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,41_50     ,African,M,NORTHERN SOTHO,Unemployed,RANDBURG,Gauteng,0
+1001_1050,F,HCER,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+0601_0800,F,DEGR,29_34     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+1051_1100,T,DEGR,26_28     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,26_28     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DIPL,29_34     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,F,NVTN,20_21     ,African,M,ISINDEBELE,Employed,BOKSBURG,Gauteng,0
+0000_0000,F,KWAL,29_34     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+0000_0000,T,KWAL,26_28     ,African,F,ISIXHOSA,Employed,BELLVILLE,Western Cape,0
+0000_0000,T,NVTN,35_40     ,African,F,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,F,NVTN,29_34     ,Indian,M,ENGLISH,Employed,GOODWOOD,Western Cape,0
+0951_1000,F,DIPL,20_21     ,African,F,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+1151_1200,T,DEGR,26_28     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,41_50     ,African,M,ISIZULU,Employed,ROODEPOORT,Gauteng,0
+0001_0600,F,SENR,29_34     ,African,F,ISIXHOSA,Employed,ALBERTON,Gauteng,0
+0000_0000,F,NVTN,29_34     ,African,M,SETSWANA,Employed,Unknown,Unknown,0
+1001_1050,T,DEGR,26_28     ,Coloured,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,M,SISWATI,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,T,DIPL,29_34     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,T,NVTN,29_34     ,African,F,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+0601_0800,F,SENR,29_34     ,African,F,XITSONGA,Employed,GERMISTON,Gauteng,0
+0851_0900,T,DIPL,29_34     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,29_34     ,White,M,ENGLISH,Employed,Unknown,Unknown,0
+1051_1100,T,DEGR,24_25     ,African,M,ISIXHOSA,Unemployed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,NVTN,29_34     ,African,F,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+1051_1100,F,MATR,35_40     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,NVTN,24_25     ,White,M,ENGLISH,Employed,KEMPTON PARK,Gauteng,0
+0601_0800,F,DIPL,18_19     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,T,HCER,26_28     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,DEGR,29_34     ,White,M,AFR/ENG,Employed,KUILS RIVER,Western Cape,0
+1051_1100,T,DEGR,29_34     ,African,F,AFR/ENG,Employed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,20_21     ,African,F,ENGLISH,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,F,DEGR,22_23     ,White,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,F,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DEGR,29_34     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,T,NVTN,22_23     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0901_0950,F,DIPL,22_23     ,Coloured,F,ENGLISH,Employed,UMLAZI,KwaZulu-Natal,0
+0000_0000,T,NVTN,24_25     ,African,M,ISIXHOSA,Unemployed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,35_40     ,Indian,F,ENGLISH,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,NVTN,35_40     ,African,M,SETSWANA,Employed,ROODEPOORT,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,KWAL,29_34     ,African,F,ISINDEBELE,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,F,NVTN,41_50     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,22_23     ,African,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,F,DIPL,29_34     ,African,M,ISIXHOSA,Employed,MITCHELLS PLAIN,Western Cape,0
+0000_0000,T,KWAL,35_40     ,African,M,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,35_40     ,Coloured,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1201_1300,F,DEGR,29_34     ,African,F,SESOTHO,Unemployed,GOODWOOD,Western Cape,0
+1101_1150,T,DEGR,24_25     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,0
+0801_0850,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,F,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,F,NVTN,20_21     ,African,M,ENGLISH,Unemployed,GERMISTON,Gauteng,0
+0000_0000,F,DEGR,20_21     ,African,F,SISWATI,Unemployed,Unknown,Unknown,0
+0000_0000,F,DEGR,26_28     ,African,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0000_0000,T,NVTN,24_25     ,African,M,ISIXHOSA,Unemployed,PRETORIA,Gauteng,0
+0801_0850,T,DIPL,20_21     ,African,F,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,20_21     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,SENR,29_34     ,Coloured,M,ENGLISH,Employed,ROODEPOORT,Gauteng,0
+0001_0600,T,KWAL,29_34     ,African,M,ISINDEBELE,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,26_28     ,Indian,M,ENGLISH,Unemployed,MITCHELLS PLAIN,Western Cape,0
+0001_0600,T,SENR,29_34     ,African,F,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,F,DEGR,20_21     ,White,F,AFRIKAANS,Employed,WONDERBOOM,Gauteng,0
+0000_0000,T,NVTN,24_25     ,African,M,ISIXHOSA,Unemployed,ALBERTON,Gauteng,0
+1001_1050,F,DEGR,29_34     ,White,M,ENGLISH,Employed,BELLVILLE,Western Cape,0
+0000_0000,T,NVTN,22_23     ,African,F,ENGLISH,Unemployed,GOODWOOD,Western Cape,0
+0000_0000,F,NVTN,41_50     ,African,M,ENGLISH,Employed,Unknown,Unknown,0
+0000_0000,T,NVTN,29_34     ,African,F,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,F,ISIZULU,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,SENR,29_34     ,African,F,SETSWANA,Employed,GARANKUWA,Midlands,0
+0000_0000,T,NVTN,24_25     ,African,F,ENGLISH,Employed,ALBERTON,Gauteng,0
+0000_0000,T,DIPL,24_25     ,African,F,TSHIVENDA,Unemployed,THOHOYANDOU,North Eastern,0
+0000_0000,F,NVTN,35_40     ,White,M,AFR/ENG,Employed,BELLVILLE,Western Cape,0
+0951_1000,T,DIPL,22_23     ,African,F,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0601_0800,T,DEGR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,22_23     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,NVTN,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+0000_0000,F,NVTN,41_50     ,African,F,ENGLISH,Employed,PRETORIA,Gauteng,0
+0851_0900,T,DIPL,26_28     ,African,M,SESOTHO,Employed,PRETORIA,Gauteng,0
+0000_0000,T,NVTN,20_21     ,African,M,ISINDEBELE,Employed,MITCHELLS PLAIN,Western Cape,0
+0951_1000,T,DIPL,22_23     ,Indian,M,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,F,NVTN,20_21     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0000_0000,F,DEGR,24_25     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+1051_1100,T,KWAL,29_34     ,African,M,ISIXHOSA,Employed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,F,ISIZULU,Employed,GERMISTON,Gauteng,0
+1301_1400,T,DEGR,24_25     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0001_0600,T,SENR,35_40     ,African,M,SETSWANA,Employed,RANDBURG,Gauteng,0
+0000_0000,F,NVTN,35_40     ,White,M,AFR/ENG,Employed,BOKSBURG,Gauteng,0
+0951_1000,T,DIPL,26_28     ,African,M,ENGLISH,Unemployed,GERMISTON,Gauteng,0
+0001_0600,T,NVTN,22_23     ,African,M,SETSWANA,Employed,GARANKUWA,Midlands,0
+1201_1300,T,DEGR,22_23     ,White,M,AFR/ENG,Unemployed,BELLVILLE,Western Cape,0
+0601_0800,T,HCER,26_28     ,African,F,ISIZULU,Employed,PRETORIA,Gauteng,0
+0000_0000,T,HCER,29_34     ,White,M,ENGLISH,Employed,BENONI,Gauteng,0
+0601_0800,F,MATR,35_40     ,African,M,ISIXHOSA,Employed,JOHANNESBURG,Gauteng,0
+0851_0900,F,MATR,29_34     ,African,F,ENGLISH,Employed,RANDBURG,Gauteng,0
+0951_1000,T,DIPL,24_25     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+0000_0000,F,NVTN,29_34     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,SENR,35_40     ,White,F,AFRIKAANS,Employed,JOHANNESBURG,Gauteng,0
+0801_0850,F,DIPL,20_21     ,African,M,ENGLISH,Unemployed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,20_21     ,African,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0601_0800,T,HCER,20_21     ,White,M,AFRIKAANS,Unemployed,BELLVILLE,Western Cape,0
+0901_0950,F,DIPL,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0851_0900,T,DIPL,18_19     ,African,M,XITSONGA,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,F,MATR,35_40     ,African,M,NORTHERN SOTHO,Employed,KEMPTON PARK,Gauteng,0
+0000_0000,T,HCER,26_28     ,African,F,ISIXHOSA,Unemployed,GERMISTON,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,M,ISIZULU,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,NVTN,18_19     ,African,M,NORTHERN SOTHO,Student,RANDBURG,Gauteng,0
+1101_1150,F,DEGR,18_19     ,Indian,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1051_1100,F,DEGR,20_21     ,African,F,SETSWANA,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,F,ENGLISH,Employed,WONDERBOOM,Gauteng,0
+0000_0000,T,DIPL,20_21     ,African,M,NORTHERN SOTHO,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,T,DEGR,20_21     ,African,M,ENGLISH,Unemployed,KEMPTON PARK,Gauteng,0
+0000_0000,F,NVTN,35_40     ,White,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,M,ISIXHOSA,Employed,RANDBURG,Gauteng,0
+0000_0000,F,NVTN,41_50     ,African,F,ISINDEBELE,Unemployed,RANDBURG,Gauteng,0
+0851_0900,F,DIPL,22_23     ,African,F,ENGLISH,Unemployed,PIETERSBURG,North Eastern,0
+1051_1100,T,DEGR,18_19     ,African,M,ISIZULU,Unemployed,GARANKUWA,Midlands,0
+0000_0000,F,NVTN,29_34     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,0
+1001_1050,F,DIPL,18_19     ,Indian,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0901_0950,T,DEGR,29_34     ,African,F,ISIZULU,Employed,RANDBURG,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,F,SETSWANA,Unemployed,GARANKUWA,Midlands,0
+0001_0600,T,SENR,35_40     ,African,M,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,F,DEGR,29_34     ,Coloured,F,ENGLISH,Employed,GOODWOOD,Western Cape,0
+0901_0950,T,DIPL,29_34     ,African,F,SETSWANA,Employed,WONDERBOOM,Gauteng,0
+1301_1400,F,DEGR,18_19     ,White,M,AFRIKAANS,Employed,ROODEPOORT,Gauteng,0
+0000_0000,F,NVTN,35_40     ,African,M,ENGLISH,Employed,GOODWOOD,Western Cape,0
+1101_1150,F,DEGR,18_19     ,African,M,NORTHERN SOTHO,Unemployed,PRETORIA,Gauteng,0
+0601_0800,T,MATR,29_34     ,African,M,SESOTHO,Employed,PIETERSBURG,North Eastern,0
+1151_1200,F,DEGR,18_19     ,African,F,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+0000_0000,F,NVTN,18_19     ,Indian,M,ENGLISH,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,F,NVTN,22_23     ,African,M,ISIXHOSA,Unemployed,PRETORIA,Gauteng,0
+0801_0850,T,DIPL,18_19     ,African,M,TSHIVENDA,Unemployed,GOODWOOD,Western Cape,0
+0000_0000,T,NVTN,41_50     ,African,F,ENGLISH,Employed,GOODWOOD,Western Cape,0
+1001_1050,F,DIPL,18_19     ,African,F,ENGLISH,Unemployed,BENONI,Gauteng,0
+0601_0800,F,HCER,26_28     ,African,M,NORTHERN SOTHO,Employed,BENONI,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,F,XITSONGA,Employed,ROODEPOORT,Gauteng,0
+0000_0000,F,NVTN,35_40     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DIPL,24_25     ,African,F,AFR/ENG,Unemployed,WONDERBOOM,Gauteng,0
+0801_0850,T,HCER,22_23     ,African,F,SESOTHO,Employed,PRETORIA,Gauteng,0
+0001_0600,T,SENR,35_40     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,41_50     ,African,F,NORTHERN SOTHO,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,M,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,F,NVTN,18_19     ,Coloured,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,F,NVTN,20_21     ,African,F,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0901_0950,T,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,F,DEGR,20_21     ,African,M,ENGLISH,Unemployed,PRETORIA,Gauteng,0
+0801_0850,F,DIPL,24_25     ,African,M,ISIXHOSA,Employed,GOODWOOD,Western Cape,0
+0000_0000,T,NVTN,35_40     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0000_0000,T,NVTN,35_40     ,African,F,SETSWANA,Employed,WONDERBOOM,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,M,SETSWANA,Employed,PRETORIA,Gauteng,0
+0000_0000,T,DEGR,24_25     ,African,M,ISIZULU,Employed,BOKSBURG,Gauteng,0
+0901_0950,T,DIPL,26_28     ,African,F,ISIZULU,Employed,BOKSBURG,Gauteng,0
+0000_0000,T,NVTN,22_23     ,African,F,NORTHERN SOTHO,Unemployed,WONDERBOOM,Gauteng,0
+0000_0000,T,NVTN,22_23     ,White,F,ENGLISH,Employed,PRETORIA,Gauteng,0
+0951_1000,T,DIPL,26_28     ,African,M,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0901_0950,T,DIPL,24_25     ,African,M,NORTHERN SOTHO,Unemployed,WITBANK,North Eastern,0
+0000_0000,T,NVTN,22_23     ,Coloured,F,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,M,TSHIVENDA,Employed,PRETORIA,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,M,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0901_0950,F,DEGR,18_19     ,African,M,SETSWANA,Unemployed,PRETORIA,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,M,ISIXHOSA,Unemployed,BELLVILLE,Western Cape,0
+0000_0000,T,NVTN,24_25     ,Coloured,F,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,M,XITSONGA,Employed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,29_34     ,African,M,ENGLISH,Employed,KUILS RIVER,Western Cape,0
+0000_0000,T,NVTN,35_40     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1001_1050,F,DIPL,22_23     ,African,M,ISIZULU,Unemployed,DURBAN,KwaZulu-Natal,0
+0000_0000,T,DEGR,29_34     ,African,F,TSHIVENDA,Unemployed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,22_23     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+1101_1150,F,DEGR,26_28     ,White,F,ENGLISH,Unemployed,ROODEPOORT,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,F,ENGLISH,Employed,ALBERTON,Gauteng,0
+0000_0000,T,NVTN,22_23     ,African,F,SETSWANA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,SENR,29_34     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0000_0000,F,NVTN,20_21     ,Indian,M,ENGLISH,Unemployed,PINETOWN,KwaZulu-Natal,0
+1051_1100,F,DEGR,18_19     ,African,M,ENGLISH,Unemployed,PRETORIA,Gauteng,0
+0001_0600,T,KWAL,35_40     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+1101_1150,T,DEGR,26_28     ,Indian,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0000_0000,F,DEGR,26_28     ,Coloured,F,ENGLISH,Employed,PRETORIA,Gauteng,0
+0601_0800,T,DEGR,29_34     ,African,F,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+0851_0900,F,DEGR,20_21     ,African,M,TSHIVENDA,Employed,BOKSBURG,Gauteng,0
+0000_0000,T,NVTN,20_21     ,African,F,NORTHERN SOTHO,Unemployed,ROODEPOORT,Gauteng,0
+0000_0000,F,DIPL,29_34     ,African,F,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0000_0000,T,NVTN,35_40     ,African,F,ISINDEBELE,Employed,SOSHANGUWE,Gauteng,0
+0000_0000,T,NVTN,22_23     ,African,M,SESOTHO,Student,PIETERSBURG,North Eastern,0
+0000_0000,F,NVTN,41_50     ,White,M,AFRIKAANS,Employed,WONDERBOOM,Gauteng,0
+0951_1000,T,HCER,22_23     ,African,F,ISIZULU,Employed,DURBAN,KwaZulu-Natal,0
+0851_0900,T,DIPL,26_28     ,African,M,SETSWANA,Unemployed,WONDERBOOM,Gauteng,0
+0000_0000,F,NVTN,41_50     ,White,M,AFRIKAANS,Employed,PRETORIA,Gauteng,0
+0851_0900,T,DIPL,24_25     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,M,NORTHERN SOTHO,Employed,RANDBURG,Gauteng,0
+0000_0000,F,NVTN,22_23     ,African,M,ENGLISH,Unemployed,RANDBURG,Gauteng,0
+1301_1400,F,DEGR,20_21     ,White,M,AFRIKAANS,Employed,PIETERSBURG,North Eastern,0
+0000_0000,T,NVTN,29_34     ,African,F,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,NVTN,22_23     ,White,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+0000_0000,T,NVTN,29_34     ,African,M,XITSONGA,Employed,GERMISTON,Gauteng,0
+0901_0950,F,DIPL,20_21     ,White,M,AFRIKAANS,Unemployed,RUSTENBURG,Midlands,0
+0000_0000,F,NVTN,24_25     ,White,M,ENGLISH,Employed,GERMISTON,Gauteng,0
+0000_0000,F,NVTN,20_21     ,African,F,NORTHERN SOTHO,Unemployed,PIETERSBURG,North Eastern,0
+0851_0900,T,DIPL,20_21     ,Indian,M,ENGLISH,Employed,JOHANNESBURG,Gauteng,0
+0801_0850,T,HCER,22_23     ,African,M,ENGLISH,Unemployed,JOHANNESBURG,Gauteng,0
+0601_0800,F,HCER,22_23     ,African,M,TSHIVENDA,Unemployed,WONDERBOOM,Gauteng,0
+0951_1000,F,DIPL,26_28     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0000_0000,T,DIPL,20_21     ,African,M,ENGLISH,Unemployed,KUILS RIVER,Western Cape,0
+0951_1000,T,DIPL,22_23     ,African,M,NORTHERN SOTHO,Employed,PRETORIA,Gauteng,0
+0951_1000,F,MATR,35_40     ,African,F,NORTHERN SOTHO,Unemployed,GERMISTON,Gauteng,0
+0601_0800,F,DEGR,20_21     ,Coloured,M,AFR/ENG,Employed,KUILS RIVER,Western Cape,0
+0000_0000,F,DEGR,18_19     ,African,M,ISIXHOSA,Unemployed,PRETORIA,Gauteng,0
+1001_1050,F,SENR,35_40     ,African,M,ISIZULU,Employed,ROODEPOORT,Gauteng,0
+0951_1000,F,DIPL,24_25     ,African,M,NORTHERN SOTHO,Employed,WONDERBOOM,Gauteng,0
+1101_1150,T,DEGR,29_34     ,African,M,ISIZULU,Employed,PIETERMARITZBURG,KwaZulu-Natal,0
+0000_0000,T,KWAL,22_23     ,African,M,TSHIVENDA,Employed,RANDBURG,Gauteng,0
+0000_0000,T,KWAL,35_40     ,African,M,ENGLISH,Employed,RANDBURG,Gauteng,0
+1051_1100,F,DEGR,26_28     ,African,M,ISIZULU,Unemployed,RANDBURG,Gauteng,0
+1401_3000,T,DEGR,22_23     ,White,F,AFR/ENG,Employed,BELLVILLE,Western Cape,0
+1101_1150,T,DEGR,29_34     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+1001_1050,T,DEGR,26_28     ,African,M,XITSONGA,Employed,JOHANNESBURG,Gauteng,0
+1301_1400,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+0000_0000,T,KWAL,29_34     ,African,M,XITSONGA,Employed,RANDBURG,Gauteng,0
+0000_0000,T,KWAL,26_28     ,African,F,SISWATI,Employed,RANDBURG,Gauteng,0
+0951_1000,F,DEGR,26_28     ,African,M,ISIZULU,Employed,JOHANNESBURG,Gauteng,0
+0001_0600,F,MATR,29_34     ,African,M,ISINDEBELE,Employed,RANDBURG,Gauteng,0
+0000_0000,T,DIPL,29_34     ,African,M,NORTHERN SOTHO,Employed,SOSHANGUWE,Gauteng,0
+1001_1050,T,SENR,35_40     ,African,F,ISIZULU,Employed,UMLAZI,KwaZulu-Natal,0
+1001_1050,T,DIPL,26_28     ,African,M,TSHIVENDA,Employed,THOHOYANDOU,North Eastern,0
+1201_1300,T,DEGR,26_28     ,African,M,ENGLISH,Employed,PRETORIA,Gauteng,0
+0951_1000,F,DIPL,26_28     ,African,F,ISIXHOSA,Employed,ALBERTON,Gauteng,0
+0000_0000,T,DIPL,26_28     ,African,F,ISIZULU,Unemployed,PIETERMARITZBURG,KwaZulu-Natal,0
+1151_1200,F,DEGR,24_25     ,African,M,TSHIVENDA,Unemployed,JOHANNESBURG,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,SESOTHO,Employed,WONDERBOOM,Gauteng,0
+0000_0000,F,DIPL,22_23     ,African,M,NORTHERN SOTHO,Unemployed,BOKSBURG,Gauteng,0
+0000_0000,T,DEGR,26_28     ,African,F,SESOTHO,Employed,JOHANNESBURG,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,SETSWANA,Employed,RUSTENBURG,Midlands,0
+1001_1050,F,DEGR,26_28     ,African,M,ISIXHOSA,Unemployed,WITBANK,North Eastern,0
+1051_1100,T,DEGR,24_25     ,African,M,NORTHERN SOTHO,Employed,BOKSBURG,Gauteng,0
+1151_1200,T,DEGR,24_25     ,Indian,F,ENGLISH,Employed,PINETOWN,KwaZulu-Natal,0
+0601_0800,F,DEGR,29_34     ,African,M,ISIXHOSA,Employed,GERMISTON,Gauteng,0
+0001_0600,T,KWAL,35_40     ,African,M,SETSWANA,Employed,WONDERBOOM,Gauteng,0
+1201_1300,T,DEGR,26_28     ,African,F,NORTHERN SOTHO,Employed,PIETERSBURG,North Eastern,0
+1001_1050,T,DEGR,26_28     ,African,M,SESOTHO,Employed,ROODEPOORT,Gauteng,0
+0000_0000,T,DEGR,29_34     ,African,M,NORTHERN SOTHO,Unemployed,KEMPTON PARK,Gauteng,0
+0851_0900,F,SENR,41_50     ,African,M,ISIXHOSA,Employed,PINETOWN,KwaZulu-Natal,0
+0000_0000,T,DIPL,29_34     ,African,M,SETSWANA,Unemployed,SOSHANGUWE,Gauteng,0
+0000_0000,T,DEGR,22_23     ,White,M,AFR/ENG,Employed,RANDBURG,Gauteng,0

@@ -1,0 +1,11 @@
+﻿Matric_Aggregate_Group;FTEN;Matric_Status_Code;Age_Group;Race;Gender;Home_Language;Employment;Magisterial_District;Region
+1201_1300;F;DEGR;24_25     ;African;F;NORTHERN SOTHO;Student;GIYANI;North Eastern
+0000_0000;T;DIPL;29_34     ;African;M;ISIXHOSA;Employed;ALIWAL NORTH;Eastern Cape
+1001_1050;F;DIPL;18_19     ;African;M;ISIZULU;Employed;PINETOWN;KwaZulu-Natal
+0000_0000;T;DEGR;22_23     ;African;M;AFRIKAANS;Student;JOHANNESBURG;Gauteng
+1101_1150;T;DEGR;26_28     ;Indian;F;SETSWANA;Employed;PHOKWANI;Gauteng
+1001_1050;T;DIPL;24_25     ;African;M;ISIZULU;Unemployed;KLIPRIVER;KwaZulu-Natal
+1051_1100;T;DEGR;29_34     ;African;F;ISIZULU;Employed;UMLAZI;KwaZulu-Natal
+1001_1050;F;DEGR;26_28     ;White;F;XITSONGA;Unemployed;SESHEGO;North Eastern
+1101_1150;T;DIPL;22_23     ;African;M;SESOTHO;Employed;MOKERONG;North Eastern
+0000_0000;T;DIPL;18_19     ;African;F;SESOTHO;Employed;JOHANNESBURG;Gauteng
